@@ -2,7 +2,7 @@
 CREATE DATABASE IF NOT EXISTS piccha_raw;
 CREATE DATABASE IF NOT EXISTS piccha_mart;
 
--- RAW MergeTree: храним цельный JSON строкой
+-- RAW MergeTree: храним здесь цельный JSON одной строкой
 CREATE TABLE IF NOT EXISTS piccha_raw.stores_raw
 (
   ingest_time DateTime DEFAULT now(),
@@ -31,7 +31,9 @@ CREATE TABLE IF NOT EXISTS piccha_raw.purchases_raw
   payload String
 ) ENGINE = MergeTree ORDER BY ingest_time;
 
--- Kafka источники (адрес брокера как в docker-compose)
+-- Kafka источники (адрес брокера как в docker-compose, используем ENGINE = Kafka, подключаемся к брокеру как консьюмер с именем группы kafka_group_name,
+-- читает сообщения батчами и отдает MV; по поводу RawBLOB - KafkaEngine может сама парсить сообщения в разные форматы или просто принимать,
+-- RawBLOB не позволяет ничего парсить, а отдает одной строкой в payload String, MV перепишет payload в RAW)
 CREATE TABLE IF NOT EXISTS piccha_raw.kafka_stores (payload String)
 ENGINE = Kafka
 SETTINGS kafka_broker_list='kafka:9092',
@@ -60,7 +62,8 @@ SETTINGS kafka_broker_list='kafka:9092',
          kafka_group_name='ch_purchases',
          kafka_format='RawBLOB';
 
--- MVs: из Kafka в RAW MergeTree
+-- MVs: из Kafka в RAW MergeTree(KafkaEngine читает из топика и отдает сюда, у нас тут есть запрос SELECT...,
+-- а MV уже пишет в RAW(MergeTree))
 CREATE MATERIALIZED VIEW IF NOT EXISTS piccha_raw.mv_stores_raw
 TO piccha_raw.stores_raw AS
 SELECT now() AS ingest_time, 'stores' AS source, payload FROM piccha_raw.kafka_stores;
@@ -82,7 +85,11 @@ SELECT now() AS ingest_time, 'purchases' AS source, payload FROM piccha_raw.kafk
 
 CREATE DATABASE IF NOT EXISTS piccha_mart;
 
-/* =============== PURCHASES (шапка заказа) =============== */
+-- MART: чистые витрины.
+-- MV делает: JSON → извлечение → lower → типизация → валидация (WHERE) → вставка.
+-- ReplacingMergeTree(ingest_time) оставляет последнюю версию по ключу сортировки
+-- во время фоновых merge; FINAL не нужен, т.к. дубли гасим ещё на этапе MV.
+
 CREATE TABLE IF NOT EXISTS piccha_mart.purchases_clean
 (
   purchase_id   String,
@@ -166,3 +173,6 @@ SELECT
   ingest_time
 FROM piccha_raw.stores_raw
 WHERE nullIf(lowerUTF8(JSONExtractString(payload,'store_id')),'') IS NOT NULL;
+
+
+-- raw и mart в одном файле, чтобы запускать сразу всё вместе, как требуется по ТЗ
