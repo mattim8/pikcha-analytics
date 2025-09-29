@@ -24,7 +24,7 @@ TOPICS = {
 }
 
 # \D = non-digit, НЕцифры заменяются на пустое значение, останутся цифры
-# по поводу соль здесь: 
+# по поводу соль здесь: мы удаляем email/phone и записываем только email_hash/phone_hash
 _DIGITS = re.compile(r"\D+")
 def _sha256_hex(s: str) -> str:
     h = hashlib.sha256()
