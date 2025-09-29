@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00064",
+  "customer": {
+    "customer_id": "cus-1011",
+    "first_name": "Леон",
+    "last_name": "Белозеров"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на пер. Угловой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Анива",
+      "street": "пр. Харьковский",
+      "house": "7/4",
+      "postal_code": "165667",
+      "coordinates": {
+        "latitude": -75.458534,
+        "longitude": 170.821241
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1012",
+      "product_name": "Умирать",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 267.06,
+      "total_price": 1335.3,
+      "kbju": {
+        "calories": 269.7,
+        "protein": 16.7,
+        "fat": 4.7,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "НПО «Исаев»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "8970283857"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 597.9,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 303.8,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    }
+  ],
+  "total_amount": 2237.0,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Ачхой Мартан",
+    "street": "пер. Студенческий",
+    "house": "7",
+    "apartment": "7",
+    "postal_code": "466183"
+  },
+  "purchase_datetime": "2025-08-05T18:30:26.439600+00:00"
+}

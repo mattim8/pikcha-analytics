@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00019",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Будимир",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на бул. Революции",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Соловки",
+      "street": "пр. Кузнецкий",
+      "house": "7",
+      "postal_code": "586578",
+      "coordinates": {
+        "latitude": -80.363409,
+        "longitude": 151.496025
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 467.84,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    }
+  ],
+  "total_amount": 467.84,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхотурье",
+    "street": "алл. Морская",
+    "house": "285",
+    "apartment": "29",
+    "postal_code": "691545"
+  },
+  "purchase_datetime": "2025-08-10T18:30:26.420814+00:00"
+}

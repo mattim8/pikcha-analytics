@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00088",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Селиван",
+    "last_name": "Игнатьев"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на пер. Дорожный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Курск",
+      "street": "пр. Мая 1",
+      "house": "7",
+      "postal_code": "715451",
+      "coordinates": {
+        "latitude": 18.4949155,
+        "longitude": 96.271759
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 245.85,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 1121.55,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 935.68,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    }
+  ],
+  "total_amount": 2303.08,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Усть-Джегута",
+    "street": "бул. Победа",
+    "house": "8/8",
+    "apartment": "65",
+    "postal_code": "190340"
+  },
+  "purchase_datetime": "2025-06-15T18:30:26.449615+00:00"
+}

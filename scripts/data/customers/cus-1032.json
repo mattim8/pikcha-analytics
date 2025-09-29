@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1032",
+  "first_name": "Аникей",
+  "last_name": "Гришина",
+  "email": "nikolaevaalina@example.com",
+  "phone": "8 622 086 3536",
+  "birth_date": "2003-09-11",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.407411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-936B72A787",
+  "home_store_id": "store-033",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Серафимович",
+    "street": "наб. Транспортная",
+    "house": "5/4",
+    "postal_code": "713900",
+    "coordinates": {
+      "latitude": -0.474318,
+      "longitude": -49.234948
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Серафимович",
+    "street": "наб. Поперечная",
+    "house": "295",
+    "apartment": "75",
+    "postal_code": "238061"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

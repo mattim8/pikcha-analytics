@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1008",
+  "first_name": "Устин",
+  "last_name": "Селиверстов",
+  "email": "kabanovaagafja@example.net",
+  "phone": "+7 (176) 591-80-33",
+  "birth_date": "2001-10-15",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.397403+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-693755A51A",
+  "home_store_id": "store-009",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Черкесск",
+    "street": "пер. Кузнецкий",
+    "house": "25",
+    "postal_code": "542784",
+    "coordinates": {
+      "latitude": 74.1959985,
+      "longitude": 171.10086
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Черкесск",
+    "street": "пер. Шишкина",
+    "house": "1",
+    "apartment": "59",
+    "postal_code": "489025"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

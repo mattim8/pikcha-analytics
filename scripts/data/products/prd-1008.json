@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1008",
+  "product_name": "Зачем",
+  "group": "🥦🥦 Овощи и зелень",
+  "category_code": "vegetables",
+  "description": "Конференция выражаться развернуться услать анализ.",
+  "kbju": {
+    "calories": 265.2,
+    "protein": 0.7,
+    "fat": 10.8,
+    "carbohydrates": 34.2
+  },
+  "price": 174.98,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 13,
+  "is_organic": false,
+  "barcode": "4473647102769",
+  "manufacturer": {
+    "name": "НПО «Исаков, Федосеев и Фролова»",
+    "country": "Россия",
+    "website": "https://ip.biz",
+    "inn": "5625881537"
+  }
+}

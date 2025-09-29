@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00023",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "София",
+    "last_name": "Фокин"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на ш. Кошевого",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Лесной (Сверд.)",
+      "street": "пр. Братский",
+      "house": "2/4",
+      "postal_code": "506068",
+      "coordinates": {
+        "latitude": 10.384523,
+        "longitude": -53.417612
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "product_name": "Дремать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 117.52,
+      "total_price": 587.6,
+      "kbju": {
+        "calories": 184.8,
+        "protein": 15.7,
+        "fat": 8.0,
+        "carbohydrates": 0.5
+      },
+      "manufacturer": {
+        "name": "Беляева Групп",
+        "country": "Россия",
+        "website": "https://gala-form.biz",
+        "inn": "7055169409"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "product_name": "Солнце",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 187.84,
+      "total_price": 939.2,
+      "kbju": {
+        "calories": 116.2,
+        "protein": 5.3,
+        "fat": 8.5,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "АО «Бирюкова, Савельева и Белозеров»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "5518844225"
+      }
+    }
+  ],
+  "total_amount": 1526.8,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Краснотурьинск",
+    "street": "пр. Нижний",
+    "house": "24",
+    "apartment": "82",
+    "postal_code": "183285"
+  },
+  "purchase_datetime": "2025-08-17T18:30:26.422815+00:00"
+}

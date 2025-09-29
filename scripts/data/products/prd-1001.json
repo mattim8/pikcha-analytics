@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1001",
+  "product_name": "Торопливый",
+  "group": "🥩🥩 Мясо, рыба, яйца и бобовые",
+  "category_code": "meat_eggs_fish",
+  "description": "Нервно эпоха песня миллиард вздрагивать задержать кожа мгновение.",
+  "kbju": {
+    "calories": 142.5,
+    "protein": 4.6,
+    "fat": 4.1,
+    "carbohydrates": 46.9
+  },
+  "price": 204.97,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 24,
+  "is_organic": true,
+  "barcode": "6095396218515",
+  "manufacturer": {
+    "name": "Макарова Лтд",
+    "country": "Россия",
+    "website": "https://titova.info",
+    "inn": "7065405153"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1013",
+  "first_name": "Всемил",
+  "last_name": "Кошелев",
+  "email": "blohinamarfa@example.com",
+  "phone": "86575692459",
+  "birth_date": "2001-12-29",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.399411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-9450BC4F4A",
+  "home_store_id": "store-014",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Саратов",
+    "street": "ш. Станционное",
+    "house": "7/4",
+    "postal_code": "763201",
+    "coordinates": {
+      "latitude": 24.124313,
+      "longitude": -62.51056
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Саратов",
+    "street": "алл. Серафимовича",
+    "house": "3",
+    "apartment": "77",
+    "postal_code": "547935"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

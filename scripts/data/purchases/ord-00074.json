@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00074",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Федосий",
+    "last_name": "Герасимова"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на бул. Совхозный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Дмитров",
+      "street": "бул. Широкий",
+      "house": "8",
+      "postal_code": "797643",
+      "coordinates": {
+        "latitude": 47.531915,
+        "longitude": -118.894692
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "product_name": "Дремать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 117.52,
+      "total_price": 235.04,
+      "kbju": {
+        "calories": 184.8,
+        "protein": 15.7,
+        "fat": 8.0,
+        "carbohydrates": 0.5
+      },
+      "manufacturer": {
+        "name": "Беляева Групп",
+        "country": "Россия",
+        "website": "https://gala-form.biz",
+        "inn": "7055169409"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 460.68,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    }
+  ],
+  "total_amount": 695.72,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Арсеньев",
+    "street": "ш. Морское",
+    "house": "5",
+    "apartment": "86",
+    "postal_code": "738757"
+  },
+  "purchase_datetime": "2025-06-27T18:30:26.443600+00:00"
+}

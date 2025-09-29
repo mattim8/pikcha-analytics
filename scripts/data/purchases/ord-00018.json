@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00018",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Ратибор",
+    "last_name": "Смирнов"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на бул. Учительский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Буденновск",
+      "street": "пер. Поселковый",
+      "house": "32",
+      "postal_code": "025634",
+      "coordinates": {
+        "latitude": -47.265655,
+        "longitude": -121.966604
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 164.79,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "product_name": "Карандаш",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 105.19,
+      "total_price": 420.76,
+      "kbju": {
+        "calories": 66.9,
+        "protein": 1.1,
+        "fat": 5.0,
+        "carbohydrates": 26.0
+      },
+      "manufacturer": {
+        "name": "НПО «Котова-Ильина»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3391878519"
+      }
+    }
+  ],
+  "total_amount": 585.55,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Уренгой",
+    "street": "наб. Астраханская",
+    "house": "2/2",
+    "apartment": "35",
+    "postal_code": "371293"
+  },
+  "purchase_datetime": "2025-08-27T18:30:26.420814+00:00"
+}

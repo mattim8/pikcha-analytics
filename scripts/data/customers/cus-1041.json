@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1041",
+  "first_name": "Будимир",
+  "last_name": "Макаров",
+  "email": "erastpoljakov@example.org",
+  "phone": "8 (705) 932-5250",
+  "birth_date": "1956-03-03",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.411797+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-760F85F9C1",
+  "home_store_id": "store-042",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Верхотурье",
+    "street": "алл. Бабушкина",
+    "house": "9/9",
+    "postal_code": "554665",
+    "coordinates": {
+      "latitude": 70.4937655,
+      "longitude": -151.886479
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхотурье",
+    "street": "алл. Морская",
+    "house": "285",
+    "apartment": "29",
+    "postal_code": "691545"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1006",
+  "first_name": "Глафира",
+  "last_name": "Белов",
+  "email": "tihonovavera@example.net",
+  "phone": "+7 (120) 387-5099",
+  "birth_date": "1987-07-25",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.395898+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-E256093C15",
+  "home_store_id": "store-007",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Печенга",
+    "street": "пер. Пионерский",
+    "house": "732",
+    "postal_code": "736026",
+    "coordinates": {
+      "latitude": -89.421422,
+      "longitude": 29.606084
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Печенга",
+    "street": "бул. Советов",
+    "house": "908",
+    "apartment": "28",
+    "postal_code": "008484"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

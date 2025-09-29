@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00061",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Александра",
+    "last_name": "Филатова"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на наб. Новосельская",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Оленегорск (Якут.)",
+      "street": "алл. Механическая",
+      "house": "7/6",
+      "postal_code": "287101",
+      "coordinates": {
+        "latitude": -48.9719705,
+        "longitude": 156.857528
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 405.6,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 298.95,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 897.24,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 1601.79,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Новый Оскол",
+    "street": "ул. Инженерная",
+    "house": "6/8",
+    "apartment": "46",
+    "postal_code": "918261"
+  },
+  "purchase_datetime": "2025-06-08T18:30:26.438600+00:00"
+}

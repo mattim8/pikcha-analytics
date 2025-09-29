@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00179",
+  "customer": {
+    "customer_id": "cus-1030",
+    "first_name": "Никифор",
+    "last_name": "Лазарева"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пер. 9 мая",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Верхотурье",
+      "street": "алл. Бабушкина",
+      "house": "9/9",
+      "postal_code": "554665",
+      "coordinates": {
+        "latitude": 70.4937655,
+        "longitude": -151.886479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 672.93,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 672.93,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Кириши",
+    "street": "бул. Ягодный",
+    "house": "102",
+    "apartment": "71",
+    "postal_code": "758842"
+  },
+  "purchase_datetime": "2025-08-26T18:30:26.485501+00:00"
+}

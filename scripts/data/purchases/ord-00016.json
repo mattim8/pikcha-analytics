@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00016",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Порфирий",
+    "last_name": "Абрамов"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на наб. Труда",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Белокуриха",
+      "street": "пер. Заводской",
+      "house": "1",
+      "postal_code": "445502",
+      "coordinates": {
+        "latitude": -51.546221,
+        "longitude": 124.041322
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 455.7,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "product_name": "Премьера",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 132.63,
+      "total_price": 397.89,
+      "kbju": {
+        "calories": 243.3,
+        "protein": 19.7,
+        "fat": 12.8,
+        "carbohydrates": 43.4
+      },
+      "manufacturer": {
+        "name": "ИП «Горбунов»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "8614341036"
+      }
+    }
+  ],
+  "total_amount": 853.59,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кулунда",
+    "street": "бул. Черноморский",
+    "house": "5/5",
+    "apartment": "25",
+    "postal_code": "892687"
+  },
+  "purchase_datetime": "2025-07-15T18:30:26.419810+00:00"
+}

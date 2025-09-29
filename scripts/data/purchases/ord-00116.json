@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00116",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Остромир",
+    "last_name": "Кузнецова"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на ул. 50 лет Победы",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Мытищи",
+      "street": "ш. Полярное",
+      "house": "668",
+      "postal_code": "542357",
+      "coordinates": {
+        "latitude": -38.4589875,
+        "longitude": -58.375629
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 494.37,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 1014.0,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    }
+  ],
+  "total_amount": 1508.37,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Лесной (Сверд.)",
+    "street": "ул. Уральская",
+    "house": "3",
+    "apartment": "15",
+    "postal_code": "218159"
+  },
+  "purchase_datetime": "2025-08-21T18:30:26.461006+00:00"
+}

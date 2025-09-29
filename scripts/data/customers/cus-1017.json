@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1017",
+  "first_name": "Валерий",
+  "last_name": "Шашков",
+  "email": "luchezar1974@example.com",
+  "phone": "+7 105 123 8282",
+  "birth_date": "1977-03-15",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.401411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-9E5D29155B",
+  "home_store_id": "store-018",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Улан-Удэ",
+    "street": "алл. Донская",
+    "house": "24",
+    "postal_code": "496631",
+    "coordinates": {
+      "latitude": 68.940059,
+      "longitude": 156.748197
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Улан-Удэ",
+    "street": "пер. Кузнецова",
+    "house": "4/7",
+    "apartment": "51",
+    "postal_code": "266093"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00002",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Потап",
+    "last_name": "Филатов"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на наб. Станиславского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Вытегра",
+      "street": "пр. Ягодный",
+      "house": "96",
+      "postal_code": "885160",
+      "coordinates": {
+        "latitude": 27.096807,
+        "longitude": -169.938213
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 345.51,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "product_name": "Умирать",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 267.06,
+      "total_price": 267.06,
+      "kbju": {
+        "calories": 269.7,
+        "protein": 16.7,
+        "fat": 4.7,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "НПО «Исаев»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "8970283857"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "product_name": "Интеллектуальный",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 42.72,
+      "total_price": 170.88,
+      "kbju": {
+        "calories": 104.8,
+        "protein": 20.0,
+        "fat": 7.7,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Бирюков Групп",
+        "country": "Россия",
+        "website": "https://kulikov.biz",
+        "inn": "1778528922"
+      }
+    }
+  ],
+  "total_amount": 783.45,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Соловки",
+    "street": "ш. Казачье",
+    "house": "24",
+    "apartment": "7",
+    "postal_code": "899940"
+  },
+  "purchase_datetime": "2025-06-30T18:30:26.414798+00:00"
+}

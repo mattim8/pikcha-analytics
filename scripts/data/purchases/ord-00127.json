@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00127",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Кир",
+    "last_name": "Савельев"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. Крайняя",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Усть-Камчатск",
+      "street": "бул. Олега Кошевого",
+      "house": "1",
+      "postal_code": "524278",
+      "coordinates": {
+        "latitude": 24.8063325,
+        "longitude": 121.134582
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 204.97,
+      "total_price": 614.91,
+      "kbju": {
+        "calories": 142.5,
+        "protein": 4.6,
+        "fat": 4.1,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "Макарова Лтд",
+        "country": "Россия",
+        "website": "https://titova.info",
+        "inn": "7065405153"
+      }
+    }
+  ],
+  "total_amount": 614.91,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Грозный",
+    "street": "ул. Гончарова",
+    "house": "26",
+    "apartment": "9",
+    "postal_code": "407451"
+  },
+  "purchase_datetime": "2025-08-20T18:30:26.465005+00:00"
+}

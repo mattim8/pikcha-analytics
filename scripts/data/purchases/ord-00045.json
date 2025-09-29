@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00045",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Василиса",
+    "last_name": "Носова"
+  },
+  "store": {
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на наб. Олега Кошевого",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Сергиев Посад",
+      "street": "ул. Тукая",
+      "house": "221",
+      "postal_code": "619399",
+      "coordinates": {
+        "latitude": -79.3319285,
+        "longitude": 152.527916
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 672.93,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "product_name": "Умирать",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 267.06,
+      "total_price": 1335.3,
+      "kbju": {
+        "calories": 269.7,
+        "protein": 16.7,
+        "fat": 4.7,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "НПО «Исаев»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "8970283857"
+      }
+    }
+  ],
+  "total_amount": 2008.23,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Яхрома",
+    "street": "пер. Первомайский",
+    "house": "6",
+    "apartment": "6",
+    "postal_code": "696582"
+  },
+  "purchase_datetime": "2025-06-22T18:30:26.432328+00:00"
+}

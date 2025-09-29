@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1024",
+  "first_name": "Наина",
+  "last_name": "Меркушева",
+  "email": "aleksandra2015@example.net",
+  "phone": "8 186 363 7454",
+  "birth_date": "1977-08-30",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.404411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-ECEA662186",
+  "home_store_id": "store-025",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Курск",
+    "street": "пр. Мая 1",
+    "house": "7",
+    "postal_code": "715451",
+    "coordinates": {
+      "latitude": 18.4949155,
+      "longitude": 96.271759
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Курск",
+    "street": "пер. Мельничный",
+    "house": "6/1",
+    "apartment": "34",
+    "postal_code": "170127"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

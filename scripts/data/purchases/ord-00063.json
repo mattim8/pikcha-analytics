@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00063",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Порфирий",
+    "last_name": "Симонова"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на пер. Хвойный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Галич",
+      "street": "пер. Журавлева",
+      "house": "2/1",
+      "postal_code": "594013",
+      "coordinates": {
+        "latitude": 64.4038345,
+        "longitude": 135.209223
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 823.95,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 1195.8,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    }
+  ],
+  "total_amount": 2019.75,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Саров (Морд.)",
+    "street": "пер. Бригадный",
+    "house": "55",
+    "apartment": "21",
+    "postal_code": "948126"
+  },
+  "purchase_datetime": "2025-08-16T18:30:26.439600+00:00"
+}

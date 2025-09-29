@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00042",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Василиса",
+    "last_name": "Носова"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на ш. Кошевого",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Лесной (Сверд.)",
+      "street": "пр. Братский",
+      "house": "2/4",
+      "postal_code": "506068",
+      "coordinates": {
+        "latitude": 10.384523,
+        "longitude": -53.417612
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 303.8,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 672.93,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 204.97,
+      "total_price": 614.91,
+      "kbju": {
+        "calories": 142.5,
+        "protein": 4.6,
+        "fat": 4.1,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "Макарова Лтд",
+        "country": "Россия",
+        "website": "https://titova.info",
+        "inn": "7065405153"
+      }
+    }
+  ],
+  "total_amount": 1591.64,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Яхрома",
+    "street": "пер. Первомайский",
+    "house": "6",
+    "apartment": "6",
+    "postal_code": "696582"
+  },
+  "purchase_datetime": "2025-06-11T18:30:26.430327+00:00"
+}

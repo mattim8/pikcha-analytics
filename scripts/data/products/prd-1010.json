@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1010",
+  "product_name": "Экзамен",
+  "group": "🥦🥦 Овощи и зелень",
+  "category_code": "vegetables",
+  "description": "Через пятеро бак мягкий.",
+  "kbju": {
+    "calories": 278.2,
+    "protein": 17.5,
+    "fat": 4.5,
+    "carbohydrates": 32.1
+  },
+  "price": 194.42,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 9,
+  "is_organic": false,
+  "barcode": "5060983584169",
+  "manufacturer": {
+    "name": "Мясников Лтд",
+    "country": "Россия",
+    "website": "https://oao.net",
+    "inn": "1216558523"
+  }
+}

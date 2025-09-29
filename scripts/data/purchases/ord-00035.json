@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00035",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Филипп",
+    "last_name": "Князев"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на ш. Киевское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Малоярославец",
+      "street": "алл. Просторная",
+      "house": "8/7",
+      "postal_code": "531473",
+      "coordinates": {
+        "latitude": 34.744229,
+        "longitude": 125.935698
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "product_name": "Интеллектуальный",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 42.72,
+      "total_price": 128.16,
+      "kbju": {
+        "calories": 104.8,
+        "protein": 20.0,
+        "fat": 7.7,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Бирюков Групп",
+        "country": "Россия",
+        "website": "https://kulikov.biz",
+        "inn": "1778528922"
+      }
+    }
+  ],
+  "total_amount": 128.16,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Вытегра",
+    "street": "пер. Высоковольтный",
+    "house": "8",
+    "apartment": "35",
+    "postal_code": "870146"
+  },
+  "purchase_datetime": "2025-09-05T18:30:26.427319+00:00"
+}

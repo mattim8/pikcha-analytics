@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00144",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Будимир",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-018",
+    "store_name": "Большая Пикча — Магазин на ул. Котовского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Улан-Удэ",
+      "street": "алл. Донская",
+      "house": "24",
+      "postal_code": "496631",
+      "coordinates": {
+        "latitude": 68.940059,
+        "longitude": 156.748197
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 115.17,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    }
+  ],
+  "total_amount": 115.17,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхотурье",
+    "street": "алл. Морская",
+    "house": "285",
+    "apartment": "29",
+    "postal_code": "691545"
+  },
+  "purchase_datetime": "2025-07-19T18:30:26.471448+00:00"
+}

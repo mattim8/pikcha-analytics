@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00115",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Радим",
+    "last_name": "Никитина"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на пр. Луначарского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Арсеньев",
+      "street": "ул. Троицкая",
+      "house": "6/4",
+      "postal_code": "556464",
+      "coordinates": {
+        "latitude": -68.0134635,
+        "longitude": 72.49406
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "product_name": "Пища",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 263.24,
+      "total_price": 263.24,
+      "kbju": {
+        "calories": 73.6,
+        "protein": 13.4,
+        "fat": 5.4,
+        "carbohydrates": 20.8
+      },
+      "manufacturer": {
+        "name": "ООО «Селиверстова»",
+        "country": "Россия",
+        "website": "https://korporatsija.com",
+        "inn": "5128682300"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 823.95,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 388.84,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    }
+  ],
+  "total_amount": 1476.03,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Малоярославец",
+    "street": "ул. Васильковая",
+    "house": "9/6",
+    "apartment": "41",
+    "postal_code": "969155"
+  },
+  "purchase_datetime": "2025-06-15T18:30:26.461006+00:00"
+}

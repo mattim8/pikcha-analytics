@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00044",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Никон",
+    "last_name": "Красильникова"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на пер. Вишневый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Ребриха",
+      "street": "наб. Громова",
+      "house": "28",
+      "postal_code": "893252",
+      "coordinates": {
+        "latitude": 54.788454,
+        "longitude": 104.731459
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 1121.55,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 1121.55,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Муравленко",
+    "street": "пр. Суворова",
+    "house": "65",
+    "apartment": "7",
+    "postal_code": "093204"
+  },
+  "purchase_datetime": "2025-08-01T18:30:26.431328+00:00"
+}

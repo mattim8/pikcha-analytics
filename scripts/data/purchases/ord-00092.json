@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00092",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Порфирий",
+    "last_name": "Симонова"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на ул. 50 лет Победы",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Мытищи",
+      "street": "ш. Полярное",
+      "house": "668",
+      "postal_code": "542357",
+      "coordinates": {
+        "latitude": -38.4589875,
+        "longitude": -58.375629
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 204.97,
+      "total_price": 1024.85,
+      "kbju": {
+        "calories": 142.5,
+        "protein": 4.6,
+        "fat": 4.1,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "Макарова Лтд",
+        "country": "Россия",
+        "website": "https://titova.info",
+        "inn": "7065405153"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 672.93,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 1697.78,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Саров (Морд.)",
+    "street": "пер. Бригадный",
+    "house": "55",
+    "apartment": "21",
+    "postal_code": "948126"
+  },
+  "purchase_datetime": "2025-08-10T18:30:26.450613+00:00"
+}

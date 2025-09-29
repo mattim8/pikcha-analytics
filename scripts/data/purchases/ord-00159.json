@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00159",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Селиван",
+    "last_name": "Игнатьев"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на алл. Короткая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Валдай",
+      "street": "пр. Лесный",
+      "house": "5",
+      "postal_code": "688937",
+      "coordinates": {
+        "latitude": -31.0994525,
+        "longitude": -33.46897
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 460.68,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "product_name": "Зачем",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 174.98,
+      "total_price": 349.96,
+      "kbju": {
+        "calories": 265.2,
+        "protein": 0.7,
+        "fat": 10.8,
+        "carbohydrates": 34.2
+      },
+      "manufacturer": {
+        "name": "НПО «Исаков, Федосеев и Фролова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "5625881537"
+      }
+    }
+  ],
+  "total_amount": 810.64,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Усть-Джегута",
+    "street": "бул. Победа",
+    "house": "8/8",
+    "apartment": "65",
+    "postal_code": "190340"
+  },
+  "purchase_datetime": "2025-07-19T18:30:26.478448+00:00"
+}

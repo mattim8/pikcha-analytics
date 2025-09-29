@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1038",
+  "first_name": "Филипп",
+  "last_name": "Князев",
+  "email": "bsokolova@example.com",
+  "phone": "8 253 244 72 09",
+  "birth_date": "1996-10-24",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.410798+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-CCD955A454",
+  "home_store_id": "store-039",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Вытегра",
+    "street": "пр. Ягодный",
+    "house": "96",
+    "postal_code": "885160",
+    "coordinates": {
+      "latitude": 27.096807,
+      "longitude": -169.938213
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Вытегра",
+    "street": "пер. Высоковольтный",
+    "house": "8",
+    "apartment": "35",
+    "postal_code": "870146"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

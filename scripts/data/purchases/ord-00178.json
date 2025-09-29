@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00178",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Спартак",
+    "last_name": "Блинова"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на бул. Папанина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Грозный",
+      "street": "бул. Цветочный",
+      "house": "52",
+      "postal_code": "318699",
+      "coordinates": {
+        "latitude": 76.005412,
+        "longitude": -58.835143
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 151.9,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 575.85,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 329.58,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    }
+  ],
+  "total_amount": 1057.33,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Усть-Илимск",
+    "street": "наб. Горького",
+    "house": "36",
+    "apartment": "27",
+    "postal_code": "189092"
+  },
+  "purchase_datetime": "2025-07-08T18:30:26.485501+00:00"
+}

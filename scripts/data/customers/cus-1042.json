@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1042",
+  "first_name": "Всемил",
+  "last_name": "Турова",
+  "email": "gurevpolikarp@example.net",
+  "phone": "8 (528) 953-92-64",
+  "birth_date": "2004-08-17",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.412796+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-52F9D883E5",
+  "home_store_id": "store-043",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Мытищи",
+    "street": "ш. Полярное",
+    "house": "668",
+    "postal_code": "542357",
+    "coordinates": {
+      "latitude": -38.4589875,
+      "longitude": -58.375629
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Мытищи",
+    "street": "бул. Пушкина",
+    "house": "12",
+    "apartment": "43",
+    "postal_code": "902959"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

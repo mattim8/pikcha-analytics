@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1011",
+  "product_name": "Дремать",
+  "group": "🥩🥩 Мясо, рыба, яйца и бобовые",
+  "category_code": "meat_eggs_fish",
+  "description": "Освобождение грустный миф мелочь сустав инвалид число.",
+  "kbju": {
+    "calories": 184.8,
+    "protein": 15.7,
+    "fat": 8.0,
+    "carbohydrates": 0.5
+  },
+  "price": 117.52,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 5,
+  "is_organic": true,
+  "barcode": "8259526949580",
+  "manufacturer": {
+    "name": "Беляева Групп",
+    "country": "Россия",
+    "website": "https://gala-form.biz",
+    "inn": "7055169409"
+  }
+}

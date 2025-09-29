@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00105",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Ратибор",
+    "last_name": "Смирнов"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на пр. Механизаторов",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Арсеньев",
+      "street": "бул. Металлургов",
+      "house": "8/1",
+      "postal_code": "436349",
+      "coordinates": {
+        "latitude": 9.058173,
+        "longitude": 74.07979
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 388.84,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 298.95,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "product_name": "Пища",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 263.24,
+      "total_price": 1316.2,
+      "kbju": {
+        "calories": 73.6,
+        "protein": 13.4,
+        "fat": 5.4,
+        "carbohydrates": 20.8
+      },
+      "manufacturer": {
+        "name": "ООО «Селиверстова»",
+        "country": "Россия",
+        "website": "https://korporatsija.com",
+        "inn": "5128682300"
+      }
+    }
+  ],
+  "total_amount": 2003.99,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Уренгой",
+    "street": "наб. Астраханская",
+    "house": "2/2",
+    "apartment": "35",
+    "postal_code": "371293"
+  },
+  "purchase_datetime": "2025-08-13T18:30:26.455613+00:00"
+}

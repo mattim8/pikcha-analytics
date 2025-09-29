@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00049",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Чеслав",
+    "last_name": "Евсеев"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на бул. Папанина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Грозный",
+      "street": "бул. Цветочный",
+      "house": "52",
+      "postal_code": "318699",
+      "coordinates": {
+        "latitude": 76.005412,
+        "longitude": -58.835143
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 607.6,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 1121.55,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 1729.15,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Буденновск",
+    "street": "бул. Уральский",
+    "house": "742",
+    "apartment": "8",
+    "postal_code": "655110"
+  },
+  "purchase_datetime": "2025-08-05T18:30:26.433327+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00022",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Порфирий",
+    "last_name": "Абрамов"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на пер. Карла Либкнехта",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Мичуринск",
+      "street": "пер. Крестьянский",
+      "house": "5/6",
+      "postal_code": "521818",
+      "coordinates": {
+        "latitude": 46.889214,
+        "longitude": -75.898743
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 597.9,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    }
+  ],
+  "total_amount": 597.9,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кулунда",
+    "street": "бул. Черноморский",
+    "house": "5/5",
+    "apartment": "25",
+    "postal_code": "892687"
+  },
+  "purchase_datetime": "2025-08-10T18:30:26.421815+00:00"
+}

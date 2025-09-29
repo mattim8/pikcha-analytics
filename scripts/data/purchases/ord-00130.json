@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00130",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "София",
+    "last_name": "Фокин"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на пр. Степной",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Муравленко",
+      "street": "ш. Олега Кошевого",
+      "house": "48",
+      "postal_code": "657871",
+      "coordinates": {
+        "latitude": -23.4533425,
+        "longitude": -59.366535
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 759.5,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    }
+  ],
+  "total_amount": 759.5,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Краснотурьинск",
+    "street": "пр. Нижний",
+    "house": "24",
+    "apartment": "82",
+    "postal_code": "183285"
+  },
+  "purchase_datetime": "2025-06-25T18:30:26.466005+00:00"
+}

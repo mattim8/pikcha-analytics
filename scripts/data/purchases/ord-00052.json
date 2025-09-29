@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00052",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Мокей",
+    "last_name": "Максимов"
+  },
+  "store": {
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на наб. Олега Кошевого",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Сергиев Посад",
+      "street": "ул. Тукая",
+      "house": "221",
+      "postal_code": "619399",
+      "coordinates": {
+        "latitude": -79.3319285,
+        "longitude": 152.527916
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "product_name": "Пища",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 263.24,
+      "total_price": 526.48,
+      "kbju": {
+        "calories": 73.6,
+        "protein": 13.4,
+        "fat": 5.4,
+        "carbohydrates": 20.8
+      },
+      "manufacturer": {
+        "name": "ООО «Селиверстова»",
+        "country": "Россия",
+        "website": "https://korporatsija.com",
+        "inn": "5128682300"
+      }
+    }
+  ],
+  "total_amount": 526.48,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Усть-Кут",
+    "street": "пр. Ольховый",
+    "house": "3",
+    "apartment": "10",
+    "postal_code": "191380"
+  },
+  "purchase_datetime": "2025-09-05T18:30:26.434328+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00034",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Остромир",
+    "last_name": "Кузнецова"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на ш. Чайкиной",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Ачхой Мартан",
+      "street": "наб. Береговая",
+      "house": "542",
+      "postal_code": "196556",
+      "coordinates": {
+        "latitude": 72.727949,
+        "longitude": 94.568165
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "product_name": "Интеллектуальный",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 42.72,
+      "total_price": 170.88,
+      "kbju": {
+        "calories": 104.8,
+        "protein": 20.0,
+        "fat": 7.7,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Бирюков Групп",
+        "country": "Россия",
+        "website": "https://kulikov.biz",
+        "inn": "1778528922"
+      }
+    }
+  ],
+  "total_amount": 170.88,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Лесной (Сверд.)",
+    "street": "ул. Уральская",
+    "house": "3",
+    "apartment": "15",
+    "postal_code": "218159"
+  },
+  "purchase_datetime": "2025-07-01T18:30:26.427319+00:00"
+}

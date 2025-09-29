@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00054",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Мокей",
+    "last_name": "Максимов"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на ш. Киевское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Малоярославец",
+      "street": "алл. Просторная",
+      "house": "8/7",
+      "postal_code": "531473",
+      "coordinates": {
+        "latitude": 34.744229,
+        "longitude": 125.935698
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "product_name": "Зачем",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 174.98,
+      "total_price": 699.92,
+      "kbju": {
+        "calories": 265.2,
+        "protein": 0.7,
+        "fat": 10.8,
+        "carbohydrates": 34.2
+      },
+      "manufacturer": {
+        "name": "НПО «Исаков, Федосеев и Фролова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "5625881537"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "product_name": "Манера",
+      "category": "🍏🍏 Фрукты и ягоды",
+      "category_code": "fruits",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 208.13,
+      "total_price": 416.26,
+      "kbju": {
+        "calories": 254.0,
+        "protein": 19.6,
+        "fat": 8.0,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Брок-Инвест-Сервис и К",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "4419866524"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 607.6,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    }
+  ],
+  "total_amount": 1723.78,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Усть-Кут",
+    "street": "пр. Ольховый",
+    "house": "3",
+    "apartment": "10",
+    "postal_code": "191380"
+  },
+  "purchase_datetime": "2025-06-22T18:30:26.435328+00:00"
+}

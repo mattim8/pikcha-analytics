@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1029",
+  "first_name": "София",
+  "last_name": "Фокин",
+  "email": "sokolovfrol@example.org",
+  "phone": "+7 430 068 4866",
+  "birth_date": "2002-06-09",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.406411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-921F9A54CB",
+  "home_store_id": "store-030",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Краснотурьинск",
+    "street": "ул. Азовская",
+    "house": "6/5",
+    "postal_code": "064090",
+    "coordinates": {
+      "latitude": 72.7810035,
+      "longitude": 86.67843
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Краснотурьинск",
+    "street": "пр. Нижний",
+    "house": "24",
+    "apartment": "82",
+    "postal_code": "183285"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

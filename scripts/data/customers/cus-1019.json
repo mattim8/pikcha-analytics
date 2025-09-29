@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1019",
+  "first_name": "Ратмир",
+  "last_name": "Осипова",
+  "email": "avdeevlavrenti@example.net",
+  "phone": "81251341252",
+  "birth_date": "1989-06-10",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.402411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-64608E45DE",
+  "home_store_id": "store-020",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Арсеньев",
+    "street": "бул. Металлургов",
+    "house": "8/1",
+    "postal_code": "436349",
+    "coordinates": {
+      "latitude": 9.058173,
+      "longitude": 74.07979
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Арсеньев",
+    "street": "пр. Правды",
+    "house": "79",
+    "apartment": "80",
+    "postal_code": "278282"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

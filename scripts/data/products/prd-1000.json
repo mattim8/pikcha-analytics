@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1000",
+  "product_name": "Премьера",
+  "group": "🥩🥩 Мясо, рыба, яйца и бобовые",
+  "category_code": "meat_eggs_fish",
+  "description": "Растеряться правление волк горький.",
+  "kbju": {
+    "calories": 243.3,
+    "protein": 19.7,
+    "fat": 12.8,
+    "carbohydrates": 43.4
+  },
+  "price": 132.63,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 19,
+  "is_organic": false,
+  "barcode": "5220472779012",
+  "manufacturer": {
+    "name": "ИП «Горбунов»",
+    "country": "Россия",
+    "website": "https://zao.net",
+    "inn": "8614341036"
+  }
+}

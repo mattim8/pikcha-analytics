@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00050",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Селиван",
+    "last_name": "Игнатьев"
+  },
+  "store": {
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на наб. Олега Кошевого",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Сергиев Посад",
+      "street": "ул. Тукая",
+      "house": "221",
+      "postal_code": "619399",
+      "coordinates": {
+        "latitude": -79.3319285,
+        "longitude": 152.527916
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 245.85,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "product_name": "Премьера",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 132.63,
+      "total_price": 530.52,
+      "kbju": {
+        "calories": 243.3,
+        "protein": 19.7,
+        "fat": 12.8,
+        "carbohydrates": 43.4
+      },
+      "manufacturer": {
+        "name": "ИП «Горбунов»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "8614341036"
+      }
+    }
+  ],
+  "total_amount": 776.37,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Усть-Джегута",
+    "street": "бул. Победа",
+    "house": "8/8",
+    "apartment": "65",
+    "postal_code": "190340"
+  },
+  "purchase_datetime": "2025-07-22T18:30:26.434328+00:00"
+}

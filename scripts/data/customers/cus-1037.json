@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1037",
+  "first_name": "Валентин",
+  "last_name": "Стрелков",
+  "email": "braginvisheslav@example.org",
+  "phone": "+7 032 365 1994",
+  "birth_date": "1959-10-13",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.410798+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-3F71268136",
+  "home_store_id": "store-038",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Дмитров",
+    "street": "бул. Широкий",
+    "house": "8",
+    "postal_code": "797643",
+    "coordinates": {
+      "latitude": 47.531915,
+      "longitude": -118.894692
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Дмитров",
+    "street": "ул. Ключевая",
+    "house": "37",
+    "apartment": "23",
+    "postal_code": "510702"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

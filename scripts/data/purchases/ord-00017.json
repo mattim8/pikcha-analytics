@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00017",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Александра",
+    "last_name": "Филатова"
+  },
+  "store": {
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на пер. Приозерный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Новый Оскол",
+      "street": "пер. Тенистый",
+      "house": "924",
+      "postal_code": "698478",
+      "coordinates": {
+        "latitude": 72.518017,
+        "longitude": 50.961505
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 896.85,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 607.6,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "product_name": "Пища",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 263.24,
+      "total_price": 1052.96,
+      "kbju": {
+        "calories": 73.6,
+        "protein": 13.4,
+        "fat": 5.4,
+        "carbohydrates": 20.8
+      },
+      "manufacturer": {
+        "name": "ООО «Селиверстова»",
+        "country": "Россия",
+        "website": "https://korporatsija.com",
+        "inn": "5128682300"
+      }
+    }
+  ],
+  "total_amount": 2557.41,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Новый Оскол",
+    "street": "ул. Инженерная",
+    "house": "6/8",
+    "apartment": "46",
+    "postal_code": "918261"
+  },
+  "purchase_datetime": "2025-06-12T18:30:26.420814+00:00"
+}

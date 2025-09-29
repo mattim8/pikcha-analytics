@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00142",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Порфирий",
+    "last_name": "Абрамов"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. Крайняя",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Усть-Камчатск",
+      "street": "бул. Олега Кошевого",
+      "house": "1",
+      "postal_code": "524278",
+      "coordinates": {
+        "latitude": 24.8063325,
+        "longitude": 121.134582
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 233.92,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 204.97,
+      "total_price": 409.94,
+      "kbju": {
+        "calories": 142.5,
+        "protein": 4.6,
+        "fat": 4.1,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "Макарова Лтд",
+        "country": "Россия",
+        "website": "https://titova.info",
+        "inn": "7065405153"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 494.37,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    }
+  ],
+  "total_amount": 1138.23,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кулунда",
+    "street": "бул. Черноморский",
+    "house": "5/5",
+    "apartment": "25",
+    "postal_code": "892687"
+  },
+  "purchase_datetime": "2025-09-02T18:30:26.471448+00:00"
+}

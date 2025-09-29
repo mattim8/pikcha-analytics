@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00097",
+  "customer": {
+    "customer_id": "cus-1023",
+    "first_name": "Аристарх",
+    "last_name": "Жданов"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на пр. Механизаторов",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Арсеньев",
+      "street": "бул. Металлургов",
+      "house": "8/1",
+      "postal_code": "436349",
+      "coordinates": {
+        "latitude": 9.058173,
+        "longitude": 74.07979
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 194.42,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "product_name": "Освободить",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 241.85,
+      "total_price": 483.7,
+      "kbju": {
+        "calories": 83.1,
+        "protein": 18.7,
+        "fat": 8.6,
+        "carbohydrates": 23.9
+      },
+      "manufacturer": {
+        "name": "АО «Васильева, Никонов и Сысоев»",
+        "country": "Россия",
+        "website": "https://andreev.info",
+        "inn": "4064039106"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 405.6,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    }
+  ],
+  "total_amount": 1083.72,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Галич",
+    "street": "бул. Студенческий",
+    "house": "9/5",
+    "apartment": "86",
+    "postal_code": "775901"
+  },
+  "purchase_datetime": "2025-08-27T18:30:26.452613+00:00"
+}

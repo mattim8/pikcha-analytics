@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1030",
+  "first_name": "Никифор",
+  "last_name": "Лазарева",
+  "email": "nikiforovpolikarp@example.net",
+  "phone": "+7 (031) 617-9904",
+  "birth_date": "2000-01-03",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.407411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-788DE51599",
+  "home_store_id": "store-031",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Кириши",
+    "street": "алл. Нефтяников",
+    "house": "3",
+    "postal_code": "745171",
+    "coordinates": {
+      "latitude": -52.2158265,
+      "longitude": -58.874036
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Кириши",
+    "street": "бул. Ягодный",
+    "house": "102",
+    "apartment": "71",
+    "postal_code": "758842"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

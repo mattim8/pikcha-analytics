@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00007",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Всемил",
+    "last_name": "Турова"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на пер. Угловой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Анива",
+      "street": "пр. Харьковский",
+      "house": "7/4",
+      "postal_code": "165667",
+      "coordinates": {
+        "latitude": -75.458534,
+        "longitude": 170.821241
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 49.17,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 388.84,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    }
+  ],
+  "total_amount": 438.01,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Мытищи",
+    "street": "бул. Пушкина",
+    "house": "12",
+    "apartment": "43",
+    "postal_code": "902959"
+  },
+  "purchase_datetime": "2025-08-12T18:30:26.415797+00:00"
+}

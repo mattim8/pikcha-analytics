@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00014",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Кир",
+    "last_name": "Савельев"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на наб. Есенина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Усть-Джегута",
+      "street": "ш. Каштановое",
+      "house": "4",
+      "postal_code": "240824",
+      "coordinates": {
+        "latitude": -77.7819725,
+        "longitude": -150.726568
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 405.6,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 659.16,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "product_name": "Освободить",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 241.85,
+      "total_price": 483.7,
+      "kbju": {
+        "calories": 83.1,
+        "protein": 18.7,
+        "fat": 8.6,
+        "carbohydrates": 23.9
+      },
+      "manufacturer": {
+        "name": "АО «Васильева, Никонов и Сысоев»",
+        "country": "Россия",
+        "website": "https://andreev.info",
+        "inn": "4064039106"
+      }
+    }
+  ],
+  "total_amount": 1548.46,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Грозный",
+    "street": "ул. Гончарова",
+    "house": "26",
+    "apartment": "9",
+    "postal_code": "407451"
+  },
+  "purchase_datetime": "2025-07-16T18:30:26.418306+00:00"
+}

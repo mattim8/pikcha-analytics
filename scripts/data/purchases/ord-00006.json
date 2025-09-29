@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00006",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Филипп",
+    "last_name": "Князев"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пер. 9 мая",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Верхотурье",
+      "street": "алл. Бабушкина",
+      "house": "9/9",
+      "postal_code": "554665",
+      "coordinates": {
+        "latitude": 70.4937655,
+        "longitude": -151.886479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 935.68,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "product_name": "Пища",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 263.24,
+      "total_price": 526.48,
+      "kbju": {
+        "calories": 73.6,
+        "protein": 13.4,
+        "fat": 5.4,
+        "carbohydrates": 20.8
+      },
+      "manufacturer": {
+        "name": "ООО «Селиверстова»",
+        "country": "Россия",
+        "website": "https://korporatsija.com",
+        "inn": "5128682300"
+      }
+    }
+  ],
+  "total_amount": 1462.16,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Вытегра",
+    "street": "пер. Высоковольтный",
+    "house": "8",
+    "apartment": "35",
+    "postal_code": "870146"
+  },
+  "purchase_datetime": "2025-08-16T18:30:26.415797+00:00"
+}

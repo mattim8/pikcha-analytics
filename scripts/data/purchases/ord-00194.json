@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00194",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Будимир",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пер. 9 мая",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Верхотурье",
+      "street": "алл. Бабушкина",
+      "house": "9/9",
+      "postal_code": "554665",
+      "coordinates": {
+        "latitude": 70.4937655,
+        "longitude": -151.886479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "product_name": "Дремать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 117.52,
+      "total_price": 470.08,
+      "kbju": {
+        "calories": 184.8,
+        "protein": 15.7,
+        "fat": 8.0,
+        "carbohydrates": 0.5
+      },
+      "manufacturer": {
+        "name": "Беляева Групп",
+        "country": "Россия",
+        "website": "https://gala-form.biz",
+        "inn": "7055169409"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "product_name": "Умирать",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 267.06,
+      "total_price": 1068.24,
+      "kbju": {
+        "calories": 269.7,
+        "protein": 16.7,
+        "fat": 4.7,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "НПО «Исаев»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "8970283857"
+      }
+    }
+  ],
+  "total_amount": 1538.32,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхотурье",
+    "street": "алл. Морская",
+    "house": "285",
+    "apartment": "29",
+    "postal_code": "691545"
+  },
+  "purchase_datetime": "2025-06-14T18:30:26.493010+00:00"
+}

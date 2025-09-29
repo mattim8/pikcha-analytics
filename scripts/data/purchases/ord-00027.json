@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00027",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Аггей",
+    "last_name": "Блохина"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на бул. Революции",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Соловки",
+      "street": "пр. Кузнецкий",
+      "house": "7",
+      "postal_code": "586578",
+      "coordinates": {
+        "latitude": -80.363409,
+        "longitude": 151.496025
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 147.51,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    }
+  ],
+  "total_amount": 147.51,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Усть-Камчатск",
+    "street": "бул. Казачий",
+    "house": "185",
+    "apartment": "20",
+    "postal_code": "631599"
+  },
+  "purchase_datetime": "2025-07-07T18:30:26.423815+00:00"
+}

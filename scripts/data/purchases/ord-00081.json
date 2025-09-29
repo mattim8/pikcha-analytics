@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00081",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Филипп",
+    "last_name": "Князев"
+  },
+  "store": {
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на ш. Московское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кулунда",
+      "street": "пр. Литейный",
+      "house": "6/3",
+      "postal_code": "534192",
+      "coordinates": {
+        "latitude": 53.38208,
+        "longitude": -48.568135
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 388.84,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    }
+  ],
+  "total_amount": 388.84,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Вытегра",
+    "street": "пер. Высоковольтный",
+    "house": "8",
+    "apartment": "35",
+    "postal_code": "870146"
+  },
+  "purchase_datetime": "2025-08-11T18:30:26.445601+00:00"
+}

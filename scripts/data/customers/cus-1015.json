@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1015",
+  "first_name": "Самуил",
+  "last_name": "Пономарева",
+  "email": "gtarasova@example.net",
+  "phone": "8 805 891 13 52",
+  "birth_date": "1998-09-16",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.400411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-F13925720C",
+  "home_store_id": "store-016",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Валдай",
+    "street": "пр. Лесный",
+    "house": "5",
+    "postal_code": "688937",
+    "coordinates": {
+      "latitude": -31.0994525,
+      "longitude": -33.46897
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Валдай",
+    "street": "пер. Красный",
+    "house": "6/7",
+    "apartment": "54",
+    "postal_code": "014388"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

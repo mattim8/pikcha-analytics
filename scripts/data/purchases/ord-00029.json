@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00029",
+  "customer": {
+    "customer_id": "cus-1036",
+    "first_name": "Ульяна",
+    "last_name": "Аксенов"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на пер. Карла Либкнехта",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Мичуринск",
+      "street": "пер. Крестьянский",
+      "house": "5/6",
+      "postal_code": "521818",
+      "coordinates": {
+        "latitude": 46.889214,
+        "longitude": -75.898743
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1012",
+      "product_name": "Умирать",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 267.06,
+      "total_price": 1068.24,
+      "kbju": {
+        "calories": 269.7,
+        "protein": 16.7,
+        "fat": 4.7,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "НПО «Исаев»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "8970283857"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 583.26,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "product_name": "Премьера",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 132.63,
+      "total_price": 265.26,
+      "kbju": {
+        "calories": 243.3,
+        "protein": 19.7,
+        "fat": 12.8,
+        "carbohydrates": 43.4
+      },
+      "manufacturer": {
+        "name": "ИП «Горбунов»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "8614341036"
+      }
+    }
+  ],
+  "total_amount": 1916.76,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Белокуриха",
+    "street": "пр. Клубный",
+    "house": "5",
+    "apartment": "21",
+    "postal_code": "067883"
+  },
+  "purchase_datetime": "2025-08-04T18:30:26.424814+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1028",
+  "first_name": "Василиса",
+  "last_name": "Носова",
+  "email": "elise89@example.net",
+  "phone": "+7 (640) 376-1379",
+  "birth_date": "1959-07-07",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.406411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-7B52E42273",
+  "home_store_id": "store-029",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Яхрома",
+    "street": "пер. Осенний",
+    "house": "22",
+    "postal_code": "937923",
+    "coordinates": {
+      "latitude": 33.7889875,
+      "longitude": 162.47244
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Яхрома",
+    "street": "пер. Первомайский",
+    "house": "6",
+    "apartment": "6",
+    "postal_code": "696582"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

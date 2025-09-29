@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00038",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Аггей",
+    "last_name": "Новикова"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на пр. Степной",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Муравленко",
+      "street": "ш. Олега Кошевого",
+      "house": "48",
+      "postal_code": "657871",
+      "coordinates": {
+        "latitude": -23.4533425,
+        "longitude": -59.366535
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 759.5,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 202.8,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    }
+  ],
+  "total_amount": 962.3,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Сергиев Посад",
+    "street": "наб. Кольцова",
+    "house": "4/4",
+    "apartment": "49",
+    "postal_code": "101666"
+  },
+  "purchase_datetime": "2025-07-30T18:30:26.429328+00:00"
+}

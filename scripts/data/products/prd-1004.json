@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1004",
+  "product_name": "Торопливый",
+  "group": "🥩🥩 Мясо, рыба, яйца и бобовые",
+  "category_code": "meat_eggs_fish",
+  "description": "Собеседник металл аж смелый.",
+  "kbju": {
+    "calories": 278.3,
+    "protein": 11.6,
+    "fat": 10.8,
+    "carbohydrates": 11.0
+  },
+  "price": 164.79,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 25,
+  "is_organic": false,
+  "barcode": "2029702135566",
+  "manufacturer": {
+    "name": "Голубев Лтд",
+    "country": "Россия",
+    "website": "https://ooo.biz",
+    "inn": "5719285654"
+  }
+}

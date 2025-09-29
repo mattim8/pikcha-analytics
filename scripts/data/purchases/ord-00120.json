@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00120",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Всеслав",
+    "last_name": "Дьячков"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на бул. Учительский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Буденновск",
+      "street": "пер. Поселковый",
+      "house": "32",
+      "postal_code": "025634",
+      "coordinates": {
+        "latitude": -47.265655,
+        "longitude": -121.966604
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 701.76,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 204.97,
+      "total_price": 409.94,
+      "kbju": {
+        "calories": 142.5,
+        "protein": 4.6,
+        "fat": 4.1,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "Макарова Лтд",
+        "country": "Россия",
+        "website": "https://titova.info",
+        "inn": "7065405153"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "product_name": "Манера",
+      "category": "🍏🍏 Фрукты и ягоды",
+      "category_code": "fruits",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 208.13,
+      "total_price": 832.52,
+      "kbju": {
+        "calories": 254.0,
+        "protein": 19.6,
+        "fat": 8.0,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Брок-Инвест-Сервис и К",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "4419866524"
+      }
+    }
+  ],
+  "total_amount": 1944.22,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Мичуринск",
+    "street": "наб. Осенняя",
+    "house": "459",
+    "apartment": "5",
+    "postal_code": "407859"
+  },
+  "purchase_datetime": "2025-07-11T18:30:26.463009+00:00"
+}

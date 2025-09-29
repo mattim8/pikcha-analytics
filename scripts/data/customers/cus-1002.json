@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1002",
+  "first_name": "Анисим",
+  "last_name": "Меркушева",
+  "email": "angelina_68@example.com",
+  "phone": "8 624 628 73 34",
+  "birth_date": "2002-10-30",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.393898+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-8B5827B6FB",
+  "home_store_id": "store-003",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Оленегорск (Якут.)",
+    "street": "алл. Механическая",
+    "house": "7/6",
+    "postal_code": "287101",
+    "coordinates": {
+      "latitude": -48.9719705,
+      "longitude": 156.857528
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Оленегорск (Якут.)",
+    "street": "алл. Надежды",
+    "house": "786",
+    "apartment": "55",
+    "postal_code": "634351"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

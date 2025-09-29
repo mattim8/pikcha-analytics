@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1026",
+  "first_name": "Спартак",
+  "last_name": "Блинова",
+  "email": "avksenti1970@example.net",
+  "phone": "8 162 713 6111",
+  "birth_date": "1976-01-02",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.405412+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-1087E59C71",
+  "home_store_id": "store-027",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Усть-Илимск",
+    "street": "пр. Мелиораторов",
+    "house": "9",
+    "postal_code": "753396",
+    "coordinates": {
+      "latitude": -27.30356,
+      "longitude": 40.533202
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Усть-Илимск",
+    "street": "наб. Горького",
+    "house": "36",
+    "apartment": "27",
+    "postal_code": "189092"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

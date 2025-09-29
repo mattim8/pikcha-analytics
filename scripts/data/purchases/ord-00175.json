@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00175",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Наина",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на пр. Красных Партизан",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Уренгой",
+      "street": "ул. Макаренко",
+      "house": "831",
+      "postal_code": "274846",
+      "coordinates": {
+        "latitude": 39.5199935,
+        "longitude": 73.521065
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 164.79,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 672.93,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 837.72,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Курск",
+    "street": "пер. Мельничный",
+    "house": "6/1",
+    "apartment": "34",
+    "postal_code": "170127"
+  },
+  "purchase_datetime": "2025-07-12T18:30:26.484502+00:00"
+}

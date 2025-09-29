@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00152",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Аггей",
+    "last_name": "Новикова"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на алл. Верхняя",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Хабаровск",
+      "street": "ул. Фурманова",
+      "house": "69",
+      "postal_code": "240268",
+      "coordinates": {
+        "latitude": -59.4924975,
+        "longitude": -145.87754
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 448.62,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 448.62,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Сергиев Посад",
+    "street": "наб. Кольцова",
+    "house": "4/4",
+    "apartment": "49",
+    "postal_code": "101666"
+  },
+  "purchase_datetime": "2025-08-09T18:30:26.475447+00:00"
+}

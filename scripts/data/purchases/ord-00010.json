@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00010",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Потап",
+    "last_name": "Филатов"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пр. Березовый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Томск",
+      "street": "пр. Большевистский",
+      "house": "94",
+      "postal_code": "347143",
+      "coordinates": {
+        "latitude": -17.0620305,
+        "longitude": 0.306775
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 196.68,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    }
+  ],
+  "total_amount": 196.68,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Соловки",
+    "street": "ш. Казачье",
+    "house": "24",
+    "apartment": "7",
+    "postal_code": "899940"
+  },
+  "purchase_datetime": "2025-08-22T18:30:26.417301+00:00"
+}

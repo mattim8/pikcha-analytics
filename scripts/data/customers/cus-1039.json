@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1039",
+  "first_name": "Всеслав",
+  "last_name": "Дьячков",
+  "email": "stepankrilov@example.net",
+  "phone": "8 (065) 787-5985",
+  "birth_date": "1981-02-09",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.410798+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-794748F91C",
+  "home_store_id": "store-040",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Мичуринск",
+    "street": "пер. Крестьянский",
+    "house": "5/6",
+    "postal_code": "521818",
+    "coordinates": {
+      "latitude": 46.889214,
+      "longitude": -75.898743
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Мичуринск",
+    "street": "наб. Осенняя",
+    "house": "459",
+    "apartment": "5",
+    "postal_code": "407859"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

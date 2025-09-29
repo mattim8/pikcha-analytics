@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00072",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "София",
+    "last_name": "Фокин"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на пр. Степной",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Муравленко",
+      "street": "ш. Олега Кошевого",
+      "house": "48",
+      "postal_code": "657871",
+      "coordinates": {
+        "latitude": -23.4533425,
+        "longitude": -59.366535
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 1195.8,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    }
+  ],
+  "total_amount": 1195.8,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Краснотурьинск",
+    "street": "пр. Нижний",
+    "house": "24",
+    "apartment": "82",
+    "postal_code": "183285"
+  },
+  "purchase_datetime": "2025-07-22T18:30:26.442600+00:00"
+}

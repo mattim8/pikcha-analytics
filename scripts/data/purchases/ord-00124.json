@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00124",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Аггей",
+    "last_name": "Новикова"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на ш. Киевское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Малоярославец",
+      "street": "алл. Просторная",
+      "house": "8/7",
+      "postal_code": "531473",
+      "coordinates": {
+        "latitude": 34.744229,
+        "longitude": 125.935698
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1005",
+      "product_name": "Солнце",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 187.84,
+      "total_price": 563.52,
+      "kbju": {
+        "calories": 116.2,
+        "protein": 5.3,
+        "fat": 8.5,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "АО «Бирюкова, Савельева и Белозеров»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "5518844225"
+      }
+    }
+  ],
+  "total_amount": 563.52,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Сергиев Посад",
+    "street": "наб. Кольцова",
+    "house": "4/4",
+    "apartment": "49",
+    "postal_code": "101666"
+  },
+  "purchase_datetime": "2025-07-13T18:30:26.464006+00:00"
+}

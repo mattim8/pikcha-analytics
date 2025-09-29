@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1023",
+  "first_name": "Аристарх",
+  "last_name": "Жданов",
+  "email": "filatovvlas@example.org",
+  "phone": "+7 (536) 729-46-67",
+  "birth_date": "1959-10-26",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.403410+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-98E1744EB5",
+  "home_store_id": "store-024",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Галич",
+    "street": "пер. Журавлева",
+    "house": "2/1",
+    "postal_code": "594013",
+    "coordinates": {
+      "latitude": 64.4038345,
+      "longitude": 135.209223
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Галич",
+    "street": "бул. Студенческий",
+    "house": "9/5",
+    "apartment": "86",
+    "postal_code": "775901"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1019",
+  "product_name": "Пища",
+  "group": "🥩🥩 Мясо, рыба, яйца и бобовые",
+  "category_code": "meat_eggs_fish",
+  "description": "Магазин рот дрогнуть хозяйка.",
+  "kbju": {
+    "calories": 73.6,
+    "protein": 13.4,
+    "fat": 5.4,
+    "carbohydrates": 20.8
+  },
+  "price": 263.24,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 6,
+  "is_organic": true,
+  "barcode": "7046226567661",
+  "manufacturer": {
+    "name": "ООО «Селиверстова»",
+    "country": "Россия",
+    "website": "https://korporatsija.com",
+    "inn": "5128682300"
+  }
+}

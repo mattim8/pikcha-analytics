@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00079",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Самуил",
+    "last_name": "Пономарева"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на пер. Хвойный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Галич",
+      "street": "пер. Журавлева",
+      "house": "2/1",
+      "postal_code": "594013",
+      "coordinates": {
+        "latitude": 64.4038345,
+        "longitude": 135.209223
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "product_name": "Дремать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 117.52,
+      "total_price": 587.6,
+      "kbju": {
+        "calories": 184.8,
+        "protein": 15.7,
+        "fat": 8.0,
+        "carbohydrates": 0.5
+      },
+      "manufacturer": {
+        "name": "Беляева Групп",
+        "country": "Россия",
+        "website": "https://gala-form.biz",
+        "inn": "7055169409"
+      }
+    }
+  ],
+  "total_amount": 587.6,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Валдай",
+    "street": "пер. Красный",
+    "house": "6/7",
+    "apartment": "54",
+    "postal_code": "014388"
+  },
+  "purchase_datetime": "2025-08-30T18:30:26.445601+00:00"
+}

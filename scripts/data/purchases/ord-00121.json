@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00121",
+  "customer": {
+    "customer_id": "cus-1014",
+    "first_name": "Назар",
+    "last_name": "Шилов"
+  },
+  "store": {
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на пер. Приозерный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Новый Оскол",
+      "street": "пер. Тенистый",
+      "house": "924",
+      "postal_code": "698478",
+      "coordinates": {
+        "latitude": 72.518017,
+        "longitude": 50.961505
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 897.24,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 897.24,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Томск",
+    "street": "бул. Тюленина",
+    "house": "44",
+    "apartment": "16",
+    "postal_code": "266179"
+  },
+  "purchase_datetime": "2025-06-12T18:30:26.463009+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00047",
+  "customer": {
+    "customer_id": "cus-1017",
+    "first_name": "Валерий",
+    "last_name": "Шашков"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на наб. Труда",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Белокуриха",
+      "street": "пер. Заводской",
+      "house": "1",
+      "postal_code": "445502",
+      "coordinates": {
+        "latitude": -51.546221,
+        "longitude": 124.041322
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1005",
+      "product_name": "Солнце",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 187.84,
+      "total_price": 751.36,
+      "kbju": {
+        "calories": 116.2,
+        "protein": 5.3,
+        "fat": 8.5,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "АО «Бирюкова, Савельева и Белозеров»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "5518844225"
+      }
+    }
+  ],
+  "total_amount": 751.36,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Улан-Удэ",
+    "street": "пер. Кузнецова",
+    "house": "4/7",
+    "apartment": "51",
+    "postal_code": "266093"
+  },
+  "purchase_datetime": "2025-08-02T18:30:26.432328+00:00"
+}

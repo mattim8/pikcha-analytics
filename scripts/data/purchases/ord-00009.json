@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00009",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Спартак",
+    "last_name": "Блинова"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Пушкинская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Дубна",
+      "street": "пр. Лермонтова",
+      "house": "1",
+      "postal_code": "814770",
+      "coordinates": {
+        "latitude": -74.728693,
+        "longitude": 17.96449
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "product_name": "Интеллектуальный",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 42.72,
+      "total_price": 170.88,
+      "kbju": {
+        "calories": 104.8,
+        "protein": 20.0,
+        "fat": 7.7,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Бирюков Групп",
+        "country": "Россия",
+        "website": "https://kulikov.biz",
+        "inn": "1778528922"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "product_name": "Умирать",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 267.06,
+      "total_price": 534.12,
+      "kbju": {
+        "calories": 269.7,
+        "protein": 16.7,
+        "fat": 4.7,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "НПО «Исаев»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "8970283857"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 303.8,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    }
+  ],
+  "total_amount": 1008.8,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Усть-Илимск",
+    "street": "наб. Горького",
+    "house": "36",
+    "apartment": "27",
+    "postal_code": "189092"
+  },
+  "purchase_datetime": "2025-08-24T18:30:26.417301+00:00"
+}

@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00174",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Радим",
+    "last_name": "Никитина"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пр. Горняцкий",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Саратов",
+      "street": "ш. Станционное",
+      "house": "7/4",
+      "postal_code": "763201",
+      "coordinates": {
+        "latitude": 24.124313,
+        "longitude": -62.51056
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 455.7,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 972.1,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "product_name": "Пища",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 263.24,
+      "total_price": 789.72,
+      "kbju": {
+        "calories": 73.6,
+        "protein": 13.4,
+        "fat": 5.4,
+        "carbohydrates": 20.8
+      },
+      "manufacturer": {
+        "name": "ООО «Селиверстова»",
+        "country": "Россия",
+        "website": "https://korporatsija.com",
+        "inn": "5128682300"
+      }
+    }
+  ],
+  "total_amount": 2217.52,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Малоярославец",
+    "street": "ул. Васильковая",
+    "house": "9/6",
+    "apartment": "41",
+    "postal_code": "969155"
+  },
+  "purchase_datetime": "2025-06-29T18:30:26.483502+00:00"
+}

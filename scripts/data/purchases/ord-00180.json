@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00180",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Будимир",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на наб. Труда",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Белокуриха",
+      "street": "пер. Заводской",
+      "house": "1",
+      "postal_code": "445502",
+      "coordinates": {
+        "latitude": -51.546221,
+        "longitude": 124.041322
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "product_name": "Карандаш",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 105.19,
+      "total_price": 105.19,
+      "kbju": {
+        "calories": 66.9,
+        "protein": 1.1,
+        "fat": 5.0,
+        "carbohydrates": 26.0
+      },
+      "manufacturer": {
+        "name": "НПО «Котова-Ильина»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3391878519"
+      }
+    }
+  ],
+  "total_amount": 105.19,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхотурье",
+    "street": "алл. Морская",
+    "house": "285",
+    "apartment": "29",
+    "postal_code": "691545"
+  },
+  "purchase_datetime": "2025-08-15T18:30:26.485501+00:00"
+}

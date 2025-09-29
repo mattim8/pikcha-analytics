@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00182",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Радим",
+    "last_name": "Никитина"
+  },
+  "store": {
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на бул. Зеленый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Краснотурьинск",
+      "street": "ул. Азовская",
+      "house": "6/5",
+      "postal_code": "064090",
+      "coordinates": {
+        "latitude": 72.7810035,
+        "longitude": 86.67843
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "product_name": "Карандаш",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 105.19,
+      "total_price": 210.38,
+      "kbju": {
+        "calories": 66.9,
+        "protein": 1.1,
+        "fat": 5.0,
+        "carbohydrates": 26.0
+      },
+      "manufacturer": {
+        "name": "НПО «Котова-Ильина»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3391878519"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 245.85,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 607.6,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    }
+  ],
+  "total_amount": 1063.83,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Малоярославец",
+    "street": "ул. Васильковая",
+    "house": "9/6",
+    "apartment": "41",
+    "postal_code": "969155"
+  },
+  "purchase_datetime": "2025-07-26T18:30:26.487005+00:00"
+}

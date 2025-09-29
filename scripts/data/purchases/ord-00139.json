@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00139",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Потап",
+    "last_name": "Филатов"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на пер. Угловой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Анива",
+      "street": "пр. Харьковский",
+      "house": "7/4",
+      "postal_code": "165667",
+      "coordinates": {
+        "latitude": -75.458534,
+        "longitude": 170.821241
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "product_name": "Пища",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 263.24,
+      "total_price": 1316.2,
+      "kbju": {
+        "calories": 73.6,
+        "protein": 13.4,
+        "fat": 5.4,
+        "carbohydrates": 20.8
+      },
+      "manufacturer": {
+        "name": "ООО «Селиверстова»",
+        "country": "Россия",
+        "website": "https://korporatsija.com",
+        "inn": "5128682300"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "product_name": "Солнце",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 187.84,
+      "total_price": 563.52,
+      "kbju": {
+        "calories": 116.2,
+        "protein": 5.3,
+        "fat": 8.5,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "АО «Бирюкова, Савельева и Белозеров»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "5518844225"
+      }
+    }
+  ],
+  "total_amount": 1879.72,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Соловки",
+    "street": "ш. Казачье",
+    "house": "24",
+    "apartment": "7",
+    "postal_code": "899940"
+  },
+  "purchase_datetime": "2025-06-14T18:30:26.470025+00:00"
+}

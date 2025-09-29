@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00138",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Василиса",
+    "last_name": "Носова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на пер. Дорожный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Курск",
+      "street": "пр. Мая 1",
+      "house": "7",
+      "postal_code": "715451",
+      "coordinates": {
+        "latitude": 18.4949155,
+        "longitude": 96.271759
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1005",
+      "product_name": "Солнце",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 187.84,
+      "total_price": 751.36,
+      "kbju": {
+        "calories": 116.2,
+        "protein": 5.3,
+        "fat": 8.5,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "АО «Бирюкова, Савельева и Белозеров»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "5518844225"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 455.7,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    }
+  ],
+  "total_amount": 1207.06,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Яхрома",
+    "street": "пер. Первомайский",
+    "house": "6",
+    "apartment": "6",
+    "postal_code": "696582"
+  },
+  "purchase_datetime": "2025-08-27T18:30:26.470025+00:00"
+}

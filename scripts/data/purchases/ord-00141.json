@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00141",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Всеслав",
+    "last_name": "Дьячков"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на бул. Революции",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Соловки",
+      "street": "пр. Кузнецкий",
+      "house": "7",
+      "postal_code": "586578",
+      "coordinates": {
+        "latitude": -80.363409,
+        "longitude": 151.496025
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 204.97,
+      "total_price": 819.88,
+      "kbju": {
+        "calories": 142.5,
+        "protein": 4.6,
+        "fat": 4.1,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "Макарова Лтд",
+        "country": "Россия",
+        "website": "https://titova.info",
+        "inn": "7065405153"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 608.4,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    }
+  ],
+  "total_amount": 1428.28,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Мичуринск",
+    "street": "наб. Осенняя",
+    "house": "459",
+    "apartment": "5",
+    "postal_code": "407859"
+  },
+  "purchase_datetime": "2025-08-17T18:30:26.470025+00:00"
+}

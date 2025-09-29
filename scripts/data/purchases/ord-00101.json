@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00101",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Потап",
+    "last_name": "Филатов"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на ш. Чайкиной",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Ачхой Мартан",
+      "street": "наб. Береговая",
+      "house": "542",
+      "postal_code": "196556",
+      "coordinates": {
+        "latitude": 72.727949,
+        "longitude": 94.568165
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1012",
+      "product_name": "Умирать",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 267.06,
+      "total_price": 1335.3,
+      "kbju": {
+        "calories": 269.7,
+        "protein": 16.7,
+        "fat": 4.7,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "НПО «Исаев»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "8970283857"
+      }
+    }
+  ],
+  "total_amount": 1335.3,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Соловки",
+    "street": "ш. Казачье",
+    "house": "24",
+    "apartment": "7",
+    "postal_code": "899940"
+  },
+  "purchase_datetime": "2025-06-13T18:30:26.454613+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1021",
+  "first_name": "Кир",
+  "last_name": "Савельев",
+  "email": "konstantin_1981@example.com",
+  "phone": "87881914858",
+  "birth_date": "2006-03-07",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.402411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-77E4783C22",
+  "home_store_id": "store-022",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Грозный",
+    "street": "бул. Цветочный",
+    "house": "52",
+    "postal_code": "318699",
+    "coordinates": {
+      "latitude": 76.005412,
+      "longitude": -58.835143
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Грозный",
+    "street": "ул. Гончарова",
+    "house": "26",
+    "apartment": "9",
+    "postal_code": "407451"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

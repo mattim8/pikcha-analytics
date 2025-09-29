@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00093",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Аггей",
+    "last_name": "Блохина"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на ул. 50 лет Победы",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Мытищи",
+      "street": "ш. Полярное",
+      "house": "668",
+      "postal_code": "542357",
+      "coordinates": {
+        "latitude": -38.4589875,
+        "longitude": -58.375629
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 896.85,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 575.85,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    }
+  ],
+  "total_amount": 1472.7,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Усть-Камчатск",
+    "street": "бул. Казачий",
+    "house": "185",
+    "apartment": "20",
+    "postal_code": "631599"
+  },
+  "purchase_datetime": "2025-06-25T18:30:26.451612+00:00"
+}

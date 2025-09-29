@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1036",
+  "first_name": "Ульяна",
+  "last_name": "Аксенов",
+  "email": "leon2001@example.com",
+  "phone": "+7 124 903 52 13",
+  "birth_date": "1978-11-21",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.409796+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-5D59FBBE80",
+  "home_store_id": "store-037",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Белокуриха",
+    "street": "пер. Заводской",
+    "house": "1",
+    "postal_code": "445502",
+    "coordinates": {
+      "latitude": -51.546221,
+      "longitude": 124.041322
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Белокуриха",
+    "street": "пр. Клубный",
+    "house": "5",
+    "apartment": "21",
+    "postal_code": "067883"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

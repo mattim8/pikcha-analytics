@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1009",
+  "first_name": "Аггей",
+  "last_name": "Блохина",
+  "email": "frolbaranov@example.net",
+  "phone": "8 142 939 68 56",
+  "birth_date": "2006-02-05",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.397403+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-5B7E95BDCA",
+  "home_store_id": "store-010",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Усть-Камчатск",
+    "street": "бул. Олега Кошевого",
+    "house": "1",
+    "postal_code": "524278",
+    "coordinates": {
+      "latitude": 24.8063325,
+      "longitude": 121.134582
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Усть-Камчатск",
+    "street": "бул. Казачий",
+    "house": "185",
+    "apartment": "20",
+    "postal_code": "631599"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

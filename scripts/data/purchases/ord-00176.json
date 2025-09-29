@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00176",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Будимир",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на пр. Луначарского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Арсеньев",
+      "street": "ул. Троицкая",
+      "house": "6/4",
+      "postal_code": "556464",
+      "coordinates": {
+        "latitude": -68.0134635,
+        "longitude": 72.49406
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 759.5,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "product_name": "Интеллектуальный",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 42.72,
+      "total_price": 128.16,
+      "kbju": {
+        "calories": 104.8,
+        "protein": 20.0,
+        "fat": 7.7,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Бирюков Групп",
+        "country": "Россия",
+        "website": "https://kulikov.biz",
+        "inn": "1778528922"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "product_name": "Освободить",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 241.85,
+      "total_price": 1209.25,
+      "kbju": {
+        "calories": 83.1,
+        "protein": 18.7,
+        "fat": 8.6,
+        "carbohydrates": 23.9
+      },
+      "manufacturer": {
+        "name": "АО «Васильева, Никонов и Сысоев»",
+        "country": "Россия",
+        "website": "https://andreev.info",
+        "inn": "4064039106"
+      }
+    }
+  ],
+  "total_amount": 2096.91,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхотурье",
+    "street": "алл. Морская",
+    "house": "285",
+    "apartment": "29",
+    "postal_code": "691545"
+  },
+  "purchase_datetime": "2025-06-20T18:30:26.484502+00:00"
+}

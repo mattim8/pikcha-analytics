@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00118",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Кир",
+    "last_name": "Савельев"
+  },
+  "store": {
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на наб. Революционная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Усть-Кут",
+      "street": "бул. Светлый",
+      "house": "5/7",
+      "postal_code": "200471",
+      "coordinates": {
+        "latitude": -63.910221,
+        "longitude": -53.942695
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 597.9,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    }
+  ],
+  "total_amount": 597.9,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Грозный",
+    "street": "ул. Гончарова",
+    "house": "26",
+    "apartment": "9",
+    "postal_code": "407451"
+  },
+  "purchase_datetime": "2025-08-25T18:30:26.462005+00:00"
+}

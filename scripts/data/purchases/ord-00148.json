@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00148",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Игорь",
+    "last_name": "Лыткина"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на ш. Чайкиной",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Ачхой Мартан",
+      "street": "наб. Береговая",
+      "house": "542",
+      "postal_code": "196556",
+      "coordinates": {
+        "latitude": 72.727949,
+        "longitude": 94.568165
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 49.17,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "product_name": "Покидать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 298.95,
+      "total_price": 597.9,
+      "kbju": {
+        "calories": 248.0,
+        "protein": 8.7,
+        "fat": 1.0,
+        "carbohydrates": 19.4
+      },
+      "manufacturer": {
+        "name": "ЗАО «Тимофеева»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "2995900109"
+      }
+    }
+  ],
+  "total_amount": 647.07,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Дубна",
+    "street": "наб. Гайдара",
+    "house": "359",
+    "apartment": "59",
+    "postal_code": "784270"
+  },
+  "purchase_datetime": "2025-07-05T18:30:26.473447+00:00"
+}

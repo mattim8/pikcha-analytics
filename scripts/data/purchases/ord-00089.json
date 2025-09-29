@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00089",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Будимир",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ш. Рыбацкое",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Галич",
+      "street": "пр. Гаражный",
+      "house": "3",
+      "postal_code": "988516",
+      "coordinates": {
+        "latitude": 4.918261,
+        "longitude": 177.201971
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "product_name": "Интеллектуальный",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 42.72,
+      "total_price": 85.44,
+      "kbju": {
+        "calories": 104.8,
+        "protein": 20.0,
+        "fat": 7.7,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Бирюков Групп",
+        "country": "Россия",
+        "website": "https://kulikov.biz",
+        "inn": "1778528922"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "product_name": "Манера",
+      "category": "🍏🍏 Фрукты и ягоды",
+      "category_code": "fruits",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 208.13,
+      "total_price": 832.52,
+      "kbju": {
+        "calories": 254.0,
+        "protein": 19.6,
+        "fat": 8.0,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Брок-Инвест-Сервис и К",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "4419866524"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 701.76,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    }
+  ],
+  "total_amount": 1619.72,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхотурье",
+    "street": "алл. Морская",
+    "house": "285",
+    "apartment": "29",
+    "postal_code": "691545"
+  },
+  "purchase_datetime": "2025-08-25T18:30:26.449615+00:00"
+}

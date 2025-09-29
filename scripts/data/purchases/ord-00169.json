@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00169",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Аггей",
+    "last_name": "Новикова"
+  },
+  "store": {
+    "store_id": "store-027",
+    "store_name": "Большая Пикча — Магазин на алл. Пархоменко",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Усть-Илимск",
+      "street": "пр. Мелиораторов",
+      "house": "9",
+      "postal_code": "753396",
+      "coordinates": {
+        "latitude": -27.30356,
+        "longitude": 40.533202
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 672.93,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "product_name": "Премьера",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 132.63,
+      "total_price": 663.15,
+      "kbju": {
+        "calories": 243.3,
+        "protein": 19.7,
+        "fat": 12.8,
+        "carbohydrates": 43.4
+      },
+      "manufacturer": {
+        "name": "ИП «Горбунов»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "8614341036"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 759.5,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    }
+  ],
+  "total_amount": 2095.58,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Сергиев Посад",
+    "street": "наб. Кольцова",
+    "house": "4/4",
+    "apartment": "49",
+    "postal_code": "101666"
+  },
+  "purchase_datetime": "2025-07-07T18:30:26.481501+00:00"
+}

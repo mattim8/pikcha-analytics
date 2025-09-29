@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00066",
+  "customer": {
+    "customer_id": "cus-1019",
+    "first_name": "Ратмир",
+    "last_name": "Осипова"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Пушкинская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Дубна",
+      "street": "пр. Лермонтова",
+      "house": "1",
+      "postal_code": "814770",
+      "coordinates": {
+        "latitude": -74.728693,
+        "longitude": 17.96449
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "product_name": "Зачем",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 174.98,
+      "total_price": 524.94,
+      "kbju": {
+        "calories": 265.2,
+        "protein": 0.7,
+        "fat": 10.8,
+        "carbohydrates": 34.2
+      },
+      "manufacturer": {
+        "name": "НПО «Исаков, Федосеев и Фролова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "5625881537"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 467.84,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    }
+  ],
+  "total_amount": 992.78,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Арсеньев",
+    "street": "пр. Правды",
+    "house": "79",
+    "apartment": "80",
+    "postal_code": "278282"
+  },
+  "purchase_datetime": "2025-08-24T18:30:26.440599+00:00"
+}

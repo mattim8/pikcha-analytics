@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00071",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Александра",
+    "last_name": "Филатова"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на пер. Хвойный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Галич",
+      "street": "пер. Журавлева",
+      "house": "2/1",
+      "postal_code": "594013",
+      "coordinates": {
+        "latitude": 64.4038345,
+        "longitude": 135.209223
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 147.51,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "product_name": "Зачем",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 174.98,
+      "total_price": 699.92,
+      "kbju": {
+        "calories": 265.2,
+        "protein": 0.7,
+        "fat": 10.8,
+        "carbohydrates": 34.2
+      },
+      "manufacturer": {
+        "name": "НПО «Исаков, Федосеев и Фролова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "5625881537"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "product_name": "Солнце",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 187.84,
+      "total_price": 563.52,
+      "kbju": {
+        "calories": 116.2,
+        "protein": 5.3,
+        "fat": 8.5,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "АО «Бирюкова, Савельева и Белозеров»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "5518844225"
+      }
+    }
+  ],
+  "total_amount": 1410.95,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Новый Оскол",
+    "street": "ул. Инженерная",
+    "house": "6/8",
+    "apartment": "46",
+    "postal_code": "918261"
+  },
+  "purchase_datetime": "2025-08-23T18:30:26.442600+00:00"
+}

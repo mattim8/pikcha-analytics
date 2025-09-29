@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1033",
+  "first_name": "Рубен",
+  "last_name": "Симонова",
+  "email": "fevronija45@example.org",
+  "phone": "8 (705) 349-4937",
+  "birth_date": "1979-09-28",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.408797+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-2E2027A535",
+  "home_store_id": "store-034",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Хабаровск",
+    "street": "ул. Фурманова",
+    "house": "69",
+    "postal_code": "240268",
+    "coordinates": {
+      "latitude": -59.4924975,
+      "longitude": -145.87754
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Хабаровск",
+    "street": "пер. Журавлева",
+    "house": "48",
+    "apartment": "6",
+    "postal_code": "060385"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

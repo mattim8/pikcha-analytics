@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00189",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Ефрем",
+    "last_name": "Антонова"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на наб. Станиславского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Вытегра",
+      "street": "пр. Ягодный",
+      "house": "96",
+      "postal_code": "885160",
+      "coordinates": {
+        "latitude": 27.096807,
+        "longitude": -169.938213
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "product_name": "Командующий",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 49.17,
+      "total_price": 196.68,
+      "kbju": {
+        "calories": 134.5,
+        "protein": 12.0,
+        "fat": 3.5,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев, Фомин и Матвеев»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "6374549904"
+      }
+    }
+  ],
+  "total_amount": 196.68,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Буйнакск",
+    "street": "алл. Профсоюзная",
+    "house": "5",
+    "apartment": "45",
+    "postal_code": "006762"
+  },
+  "purchase_datetime": "2025-06-26T18:30:26.490010+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00065",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Всемил",
+    "last_name": "Турова"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на алл. Главная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Кырен",
+      "street": "пр. Литейный",
+      "house": "626",
+      "postal_code": "235116",
+      "coordinates": {
+        "latitude": -64.037895,
+        "longitude": 12.725585
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 448.62,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "product_name": "Карандаш",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 105.19,
+      "total_price": 105.19,
+      "kbju": {
+        "calories": 66.9,
+        "protein": 1.1,
+        "fat": 5.0,
+        "carbohydrates": 26.0
+      },
+      "manufacturer": {
+        "name": "НПО «Котова-Ильина»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3391878519"
+      }
+    }
+  ],
+  "total_amount": 553.81,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Мытищи",
+    "street": "бул. Пушкина",
+    "house": "12",
+    "apartment": "43",
+    "postal_code": "902959"
+  },
+  "purchase_datetime": "2025-06-23T18:30:26.439600+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00114",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Ефрем",
+    "last_name": "Антонова"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на наб. Станиславского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Вытегра",
+      "street": "пр. Ягодный",
+      "house": "96",
+      "postal_code": "885160",
+      "coordinates": {
+        "latitude": 27.096807,
+        "longitude": -169.938213
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 194.42,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    }
+  ],
+  "total_amount": 194.42,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Буйнакск",
+    "street": "алл. Профсоюзная",
+    "house": "5",
+    "apartment": "45",
+    "postal_code": "006762"
+  },
+  "purchase_datetime": "2025-07-19T18:30:26.460005+00:00"
+}

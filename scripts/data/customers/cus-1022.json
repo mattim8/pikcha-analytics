@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1022",
+  "first_name": "Порфирий",
+  "last_name": "Симонова",
+  "email": "nosovizot@example.org",
+  "phone": "85962923309",
+  "birth_date": "1978-07-21",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.403410+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-2376C282B5",
+  "home_store_id": "store-023",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Саров (Морд.)",
+    "street": "пер. Чайкиной",
+    "house": "1",
+    "postal_code": "447134",
+    "coordinates": {
+      "latitude": 77.7877305,
+      "longitude": 136.640873
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Саров (Морд.)",
+    "street": "пер. Бригадный",
+    "house": "55",
+    "apartment": "21",
+    "postal_code": "948126"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

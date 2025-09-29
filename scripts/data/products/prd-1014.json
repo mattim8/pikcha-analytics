@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1014",
+  "product_name": "Опасность",
+  "group": "🥛🥛 Молочные продукты",
+  "category_code": "milk",
+  "description": "Невыносимый достоинство новый торопливый да.",
+  "kbju": {
+    "calories": 181.9,
+    "protein": 12.3,
+    "fat": 14.5,
+    "carbohydrates": 46.5
+  },
+  "price": 233.92,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 27,
+  "is_organic": true,
+  "barcode": "3384842199335",
+  "manufacturer": {
+    "name": "ООО «Щукина»",
+    "country": "Россия",
+    "website": "https://savelev.com",
+    "inn": "0165712082"
+  }
+}

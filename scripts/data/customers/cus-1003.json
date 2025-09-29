@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1003",
+  "first_name": "Радим",
+  "last_name": "Терентьева",
+  "email": "vadim_83@example.org",
+  "phone": "+76990139837",
+  "birth_date": "1968-11-22",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.394900+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-F86F068DB6",
+  "home_store_id": "store-004",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Ребриха",
+    "street": "наб. Громова",
+    "house": "28",
+    "postal_code": "893252",
+    "coordinates": {
+      "latitude": 54.788454,
+      "longitude": 104.731459
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Ребриха",
+    "street": "ш. Буденного",
+    "house": "1",
+    "apartment": "32",
+    "postal_code": "317393"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

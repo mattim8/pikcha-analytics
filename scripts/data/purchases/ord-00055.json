@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00055",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Аникей",
+    "last_name": "Гришина"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на пер. Куйбышева",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Черкесск",
+      "street": "пер. Кузнецкий",
+      "house": "25",
+      "postal_code": "542784",
+      "coordinates": {
+        "latitude": 74.1959985,
+        "longitude": 171.10086
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "product_name": "Зачем",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 174.98,
+      "total_price": 699.92,
+      "kbju": {
+        "calories": 265.2,
+        "protein": 0.7,
+        "fat": 10.8,
+        "carbohydrates": 34.2
+      },
+      "manufacturer": {
+        "name": "НПО «Исаков, Федосеев и Фролова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "5625881537"
+      }
+    }
+  ],
+  "total_amount": 699.92,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Серафимович",
+    "street": "наб. Поперечная",
+    "house": "295",
+    "apartment": "75",
+    "postal_code": "238061"
+  },
+  "purchase_datetime": "2025-08-03T18:30:26.436327+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00001",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Валентин",
+    "last_name": "Стрелков"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на пр. Луначарского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Арсеньев",
+      "street": "ул. Троицкая",
+      "house": "6/4",
+      "postal_code": "556464",
+      "coordinates": {
+        "latitude": -68.0134635,
+        "longitude": 72.49406
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 575.85,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    }
+  ],
+  "total_amount": 575.85,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Дмитров",
+    "street": "ул. Ключевая",
+    "house": "37",
+    "apartment": "23",
+    "postal_code": "510702"
+  },
+  "purchase_datetime": "2025-07-28T18:30:26.413797+00:00"
+}

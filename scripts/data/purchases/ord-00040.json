@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00040",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Рубен",
+    "last_name": "Симонова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на пер. Дорожный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Курск",
+      "street": "пр. Мая 1",
+      "house": "7",
+      "postal_code": "715451",
+      "coordinates": {
+        "latitude": 18.4949155,
+        "longitude": 96.271759
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 1169.6,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 897.24,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 2066.84,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Хабаровск",
+    "street": "пер. Журавлева",
+    "house": "48",
+    "apartment": "6",
+    "postal_code": "060385"
+  },
+  "purchase_datetime": "2025-06-20T18:30:26.430327+00:00"
+}

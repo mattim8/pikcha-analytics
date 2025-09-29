@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00196",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Порфирий",
+    "last_name": "Абрамов"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на пр. Механизаторов",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Арсеньев",
+      "street": "бул. Металлургов",
+      "house": "8/1",
+      "postal_code": "436349",
+      "coordinates": {
+        "latitude": 9.058173,
+        "longitude": 74.07979
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "product_name": "Карандаш",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 105.19,
+      "total_price": 525.95,
+      "kbju": {
+        "calories": 66.9,
+        "protein": 1.1,
+        "fat": 5.0,
+        "carbohydrates": 26.0
+      },
+      "manufacturer": {
+        "name": "НПО «Котова-Ильина»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3391878519"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "product_name": "Манера",
+      "category": "🍏🍏 Фрукты и ягоды",
+      "category_code": "fruits",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 208.13,
+      "total_price": 832.52,
+      "kbju": {
+        "calories": 254.0,
+        "protein": 19.6,
+        "fat": 8.0,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Брок-Инвест-Сервис и К",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "4419866524"
+      }
+    }
+  ],
+  "total_amount": 1358.47,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кулунда",
+    "street": "бул. Черноморский",
+    "house": "5/5",
+    "apartment": "25",
+    "postal_code": "892687"
+  },
+  "purchase_datetime": "2025-07-24T18:30:26.493010+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00137",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Радим",
+    "last_name": "Никитина"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на наб. Карла Либкнехта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Саров (Морд.)",
+      "street": "пер. Чайкиной",
+      "house": "1",
+      "postal_code": "447134",
+      "coordinates": {
+        "latitude": 77.7877305,
+        "longitude": 136.640873
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "product_name": "Экзамен",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 194.42,
+      "total_price": 583.26,
+      "kbju": {
+        "calories": 278.2,
+        "protein": 17.5,
+        "fat": 4.5,
+        "carbohydrates": 32.1
+      },
+      "manufacturer": {
+        "name": "Мясников Лтд",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "1216558523"
+      }
+    }
+  ],
+  "total_amount": 583.26,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Малоярославец",
+    "street": "ул. Васильковая",
+    "house": "9/6",
+    "apartment": "41",
+    "postal_code": "969155"
+  },
+  "purchase_datetime": "2025-07-17T18:30:26.469025+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00039",
+  "customer": {
+    "customer_id": "cus-1005",
+    "first_name": "Фадей",
+    "last_name": "Рожкова"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на алл. Короткая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Валдай",
+      "street": "пр. Лесный",
+      "house": "5",
+      "postal_code": "688937",
+      "coordinates": {
+        "latitude": -31.0994525,
+        "longitude": -33.46897
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "product_name": "Карандаш",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 105.19,
+      "total_price": 420.76,
+      "kbju": {
+        "calories": 66.9,
+        "protein": 1.1,
+        "fat": 5.0,
+        "carbohydrates": 26.0
+      },
+      "manufacturer": {
+        "name": "НПО «Котова-Ильина»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3391878519"
+      }
+    }
+  ],
+  "total_amount": 420.76,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Анива",
+    "street": "алл. Есенина",
+    "house": "92",
+    "apartment": "22",
+    "postal_code": "280801"
+  },
+  "purchase_datetime": "2025-08-09T18:30:26.429328+00:00"
+}

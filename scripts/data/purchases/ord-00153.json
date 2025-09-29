@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00153",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Порфирий",
+    "last_name": "Симонова"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на алл. Верхняя",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Хабаровск",
+      "street": "ул. Фурманова",
+      "house": "69",
+      "postal_code": "240268",
+      "coordinates": {
+        "latitude": -59.4924975,
+        "longitude": -145.87754
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 405.6,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "product_name": "Зачем",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 174.98,
+      "total_price": 874.9,
+      "kbju": {
+        "calories": 265.2,
+        "protein": 0.7,
+        "fat": 10.8,
+        "carbohydrates": 34.2
+      },
+      "manufacturer": {
+        "name": "НПО «Исаков, Федосеев и Фролова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "5625881537"
+      }
+    }
+  ],
+  "total_amount": 1280.5,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Саров (Морд.)",
+    "street": "пер. Бригадный",
+    "house": "55",
+    "apartment": "21",
+    "postal_code": "948126"
+  },
+  "purchase_datetime": "2025-06-20T18:30:26.475447+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1015",
+  "product_name": "Выражаться",
+  "group": "🥛🥛 Молочные продукты",
+  "category_code": "milk",
+  "description": "Единый выбирать актриса карман банда тревога сынок.",
+  "kbju": {
+    "calories": 149.7,
+    "protein": 13.6,
+    "fat": 5.7,
+    "carbohydrates": 45.0
+  },
+  "price": 151.9,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 12,
+  "is_organic": true,
+  "barcode": "9380262067241",
+  "manufacturer": {
+    "name": "РАО «Кириллов»",
+    "country": "Россия",
+    "website": "https://danilova.biz",
+    "inn": "4788728743"
+  }
+}

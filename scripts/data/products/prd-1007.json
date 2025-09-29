@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1007",
+  "product_name": "Покидать",
+  "group": "🥩🥩 Мясо, рыба, яйца и бобовые",
+  "category_code": "meat_eggs_fish",
+  "description": "Термин другой приличный тяжелый порода деньги запеть.",
+  "kbju": {
+    "calories": 248.0,
+    "protein": 8.7,
+    "fat": 1.0,
+    "carbohydrates": 19.4
+  },
+  "price": 298.95,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 21,
+  "is_organic": false,
+  "barcode": "5841438424984",
+  "manufacturer": {
+    "name": "ЗАО «Тимофеева»",
+    "country": "Россия",
+    "website": "https://zao.com",
+    "inn": "2995900109"
+  }
+}

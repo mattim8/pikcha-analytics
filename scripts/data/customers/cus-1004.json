@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1004",
+  "first_name": "Никон",
+  "last_name": "Красильникова",
+  "email": "ustinmarkov@example.com",
+  "phone": "8 785 445 87 71",
+  "birth_date": "2003-11-03",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.394900+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-8088E2A78A",
+  "home_store_id": "store-005",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Муравленко",
+    "street": "ш. Олега Кошевого",
+    "house": "48",
+    "postal_code": "657871",
+    "coordinates": {
+      "latitude": -23.4533425,
+      "longitude": -59.366535
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Муравленко",
+    "street": "пр. Суворова",
+    "house": "65",
+    "apartment": "7",
+    "postal_code": "093204"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

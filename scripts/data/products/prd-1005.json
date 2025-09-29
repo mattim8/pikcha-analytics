@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1005",
+  "product_name": "Солнце",
+  "group": "🥩🥩 Мясо, рыба, яйца и бобовые",
+  "category_code": "meat_eggs_fish",
+  "description": "Заплакать смеяться появление нажать.",
+  "kbju": {
+    "calories": 116.2,
+    "protein": 5.3,
+    "fat": 8.5,
+    "carbohydrates": 13.5
+  },
+  "price": 187.84,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 23,
+  "is_organic": false,
+  "barcode": "1447394731216",
+  "manufacturer": {
+    "name": "АО «Бирюкова, Савельева и Белозеров»",
+    "country": "Россия",
+    "website": "https://oao.edu",
+    "inn": "5518844225"
+  }
+}

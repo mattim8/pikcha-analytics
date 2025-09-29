@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1043",
+  "first_name": "Ефрем",
+  "last_name": "Антонова",
+  "email": "kolobovserge@example.org",
+  "phone": "8 135 521 5704",
+  "birth_date": "1968-12-12",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.412796+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-EDDA4EDC10",
+  "home_store_id": "store-044",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Буйнакск",
+    "street": "бул. Ручейный",
+    "house": "5/8",
+    "postal_code": "834735",
+    "coordinates": {
+      "latitude": 63.1207895,
+      "longitude": 56.543931
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Буйнакск",
+    "street": "алл. Профсоюзная",
+    "house": "5",
+    "apartment": "45",
+    "postal_code": "006762"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00181",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Анисим",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на пр. Красных Партизан",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Уренгой",
+      "street": "ул. Макаренко",
+      "house": "831",
+      "postal_code": "274846",
+      "coordinates": {
+        "latitude": 39.5199935,
+        "longitude": 73.521065
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1005",
+      "product_name": "Солнце",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 187.84,
+      "total_price": 187.84,
+      "kbju": {
+        "calories": 116.2,
+        "protein": 5.3,
+        "fat": 8.5,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "АО «Бирюкова, Савельева и Белозеров»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "5518844225"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 224.31,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    }
+  ],
+  "total_amount": 412.15,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Оленегорск (Якут.)",
+    "street": "алл. Надежды",
+    "house": "786",
+    "apartment": "55",
+    "postal_code": "634351"
+  },
+  "purchase_datetime": "2025-07-26T18:30:26.487005+00:00"
+}

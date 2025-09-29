@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1001",
+  "first_name": "Порфирий",
+  "last_name": "Абрамов",
+  "email": "erofe_2021@example.org",
+  "phone": "+7 (843) 959-95-34",
+  "birth_date": "1964-06-05",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.393898+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-E63AE2036F",
+  "home_store_id": "store-002",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Кулунда",
+    "street": "пр. Литейный",
+    "house": "6/3",
+    "postal_code": "534192",
+    "coordinates": {
+      "latitude": 53.38208,
+      "longitude": -48.568135
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кулунда",
+    "street": "бул. Черноморский",
+    "house": "5/5",
+    "apartment": "25",
+    "postal_code": "892687"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

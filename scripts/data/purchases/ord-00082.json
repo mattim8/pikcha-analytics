@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00082",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Никон",
+    "last_name": "Красильникова"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ш. Рыбацкое",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Галич",
+      "street": "пр. Гаражный",
+      "house": "3",
+      "postal_code": "988516",
+      "coordinates": {
+        "latitude": 4.918261,
+        "longitude": 177.201971
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "product_name": "Освободить",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 241.85,
+      "total_price": 483.7,
+      "kbju": {
+        "calories": 83.1,
+        "protein": 18.7,
+        "fat": 8.6,
+        "carbohydrates": 23.9
+      },
+      "manufacturer": {
+        "name": "АО «Васильева, Никонов и Сысоев»",
+        "country": "Россия",
+        "website": "https://andreev.info",
+        "inn": "4064039106"
+      }
+    }
+  ],
+  "total_amount": 483.7,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Муравленко",
+    "street": "пр. Суворова",
+    "house": "65",
+    "apartment": "7",
+    "postal_code": "093204"
+  },
+  "purchase_datetime": "2025-08-19T18:30:26.447105+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1020",
+  "first_name": "Селиван",
+  "last_name": "Игнатьев",
+  "email": "gerasimovluka@example.com",
+  "phone": "80507236887",
+  "birth_date": "1982-07-10",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.402411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-C7C10DCBD8",
+  "home_store_id": "store-021",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Усть-Джегута",
+    "street": "ш. Каштановое",
+    "house": "4",
+    "postal_code": "240824",
+    "coordinates": {
+      "latitude": -77.7819725,
+      "longitude": -150.726568
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Усть-Джегута",
+    "street": "бул. Победа",
+    "house": "8/8",
+    "apartment": "65",
+    "postal_code": "190340"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

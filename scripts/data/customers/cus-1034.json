@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1034",
+  "first_name": "Александра",
+  "last_name": "Филатова",
+  "email": "seliverstovalora@example.org",
+  "phone": "8 413 836 70 24",
+  "birth_date": "1961-01-04",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.408797+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-7E95A2DAB4",
+  "home_store_id": "store-035",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Новый Оскол",
+    "street": "пер. Тенистый",
+    "house": "924",
+    "postal_code": "698478",
+    "coordinates": {
+      "latitude": 72.518017,
+      "longitude": 50.961505
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Новый Оскол",
+    "street": "ул. Инженерная",
+    "house": "6/8",
+    "apartment": "46",
+    "postal_code": "918261"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

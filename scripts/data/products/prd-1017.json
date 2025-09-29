@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1017",
+  "product_name": "Карандаш",
+  "group": "🥩🥩 Мясо, рыба, яйца и бобовые",
+  "category_code": "meat_eggs_fish",
+  "description": "Протягивать народ проход ломать наступать медицина.",
+  "kbju": {
+    "calories": 66.9,
+    "protein": 1.1,
+    "fat": 5.0,
+    "carbohydrates": 26.0
+  },
+  "price": 105.19,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 20,
+  "is_organic": true,
+  "barcode": "4145933272790",
+  "manufacturer": {
+    "name": "НПО «Котова-Ильина»",
+    "country": "Россия",
+    "website": "https://oao.edu",
+    "inn": "3391878519"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00143",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Филипп",
+    "last_name": "Князев"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. Крайняя",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Усть-Камчатск",
+      "street": "бул. Олега Кошевого",
+      "house": "1",
+      "postal_code": "524278",
+      "coordinates": {
+        "latitude": 24.8063325,
+        "longitude": 121.134582
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "product_name": "Опасность",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 233.92,
+      "total_price": 935.68,
+      "kbju": {
+        "calories": 181.9,
+        "protein": 12.3,
+        "fat": 14.5,
+        "carbohydrates": 46.5
+      },
+      "manufacturer": {
+        "name": "ООО «Щукина»",
+        "country": "Россия",
+        "website": "https://savelev.com",
+        "inn": "0165712082"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "product_name": "Дремать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 117.52,
+      "total_price": 117.52,
+      "kbju": {
+        "calories": 184.8,
+        "protein": 15.7,
+        "fat": 8.0,
+        "carbohydrates": 0.5
+      },
+      "manufacturer": {
+        "name": "Беляева Групп",
+        "country": "Россия",
+        "website": "https://gala-form.biz",
+        "inn": "7055169409"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "product_name": "Освободить",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 241.85,
+      "total_price": 1209.25,
+      "kbju": {
+        "calories": 83.1,
+        "protein": 18.7,
+        "fat": 8.6,
+        "carbohydrates": 23.9
+      },
+      "manufacturer": {
+        "name": "АО «Васильева, Никонов и Сысоев»",
+        "country": "Россия",
+        "website": "https://andreev.info",
+        "inn": "4064039106"
+      }
+    }
+  ],
+  "total_amount": 2262.45,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Вытегра",
+    "street": "пер. Высоковольтный",
+    "house": "8",
+    "apartment": "35",
+    "postal_code": "870146"
+  },
+  "purchase_datetime": "2025-07-28T18:30:26.471448+00:00"
+}

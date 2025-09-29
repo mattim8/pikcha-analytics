@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1012",
+  "product_name": "Умирать",
+  "group": "🥛🥛 Молочные продукты",
+  "category_code": "milk",
+  "description": "Покинуть ложиться выражение порядок вообще.",
+  "kbju": {
+    "calories": 269.7,
+    "protein": 16.7,
+    "fat": 4.7,
+    "carbohydrates": 3.4
+  },
+  "price": 267.06,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 7,
+  "is_organic": true,
+  "barcode": "9728962309139",
+  "manufacturer": {
+    "name": "НПО «Исаев»",
+    "country": "Россия",
+    "website": "https://ao.info",
+    "inn": "8970283857"
+  }
+}

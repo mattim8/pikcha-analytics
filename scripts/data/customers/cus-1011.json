@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1011",
+  "first_name": "Леон",
+  "last_name": "Белозеров",
+  "email": "sinklitikija_41@example.org",
+  "phone": "+7 267 888 61 01",
+  "birth_date": "1978-10-06",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.398406+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-57408FC592",
+  "home_store_id": "store-012",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Ачхой Мартан",
+    "street": "наб. Береговая",
+    "house": "542",
+    "postal_code": "196556",
+    "coordinates": {
+      "latitude": 72.727949,
+      "longitude": 94.568165
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Ачхой Мартан",
+    "street": "пер. Студенческий",
+    "house": "7",
+    "apartment": "7",
+    "postal_code": "466183"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

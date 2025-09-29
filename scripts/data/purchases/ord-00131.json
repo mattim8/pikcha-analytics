@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00131",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Самуил",
+    "last_name": "Пономарева"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. Крайняя",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Усть-Камчатск",
+      "street": "бул. Олега Кошевого",
+      "house": "1",
+      "postal_code": "524278",
+      "coordinates": {
+        "latitude": 24.8063325,
+        "longitude": 121.134582
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1013",
+      "product_name": "Манера",
+      "category": "🍏🍏 Фрукты и ягоды",
+      "category_code": "fruits",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 208.13,
+      "total_price": 1040.65,
+      "kbju": {
+        "calories": 254.0,
+        "protein": 19.6,
+        "fat": 8.0,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Брок-Инвест-Сервис и К",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "4419866524"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "product_name": "Премьера",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 132.63,
+      "total_price": 397.89,
+      "kbju": {
+        "calories": 243.3,
+        "protein": 19.7,
+        "fat": 12.8,
+        "carbohydrates": 43.4
+      },
+      "manufacturer": {
+        "name": "ИП «Горбунов»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "8614341036"
+      }
+    }
+  ],
+  "total_amount": 1438.54,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Валдай",
+    "street": "пер. Красный",
+    "house": "6/7",
+    "apartment": "54",
+    "postal_code": "014388"
+  },
+  "purchase_datetime": "2025-06-13T18:30:26.467005+00:00"
+}

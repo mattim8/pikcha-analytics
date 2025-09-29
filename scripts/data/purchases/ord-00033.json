@@ -1,0 +1,83 @@
+{
+  "purchase_id": "ord-00033",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Остромир",
+    "last_name": "Кузнецова"
+  },
+  "store": {
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на бул. Зеленый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Краснотурьинск",
+      "street": "ул. Азовская",
+      "house": "6/5",
+      "postal_code": "064090",
+      "coordinates": {
+        "latitude": 72.7810035,
+        "longitude": 86.67843
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 448.62,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "product_name": "Зачем",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 174.98,
+      "total_price": 174.98,
+      "kbju": {
+        "calories": 265.2,
+        "protein": 0.7,
+        "fat": 10.8,
+        "carbohydrates": 34.2
+      },
+      "manufacturer": {
+        "name": "НПО «Исаков, Федосеев и Фролова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "5625881537"
+      }
+    }
+  ],
+  "total_amount": 623.6,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Лесной (Сверд.)",
+    "street": "ул. Уральская",
+    "house": "3",
+    "apartment": "15",
+    "postal_code": "218159"
+  },
+  "purchase_datetime": "2025-06-30T18:30:26.427319+00:00"
+}

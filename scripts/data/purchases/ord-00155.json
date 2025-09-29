@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00155",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Порфирий",
+    "last_name": "Абрамов"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на пер. Угловой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Анива",
+      "street": "пр. Харьковский",
+      "house": "7/4",
+      "postal_code": "165667",
+      "coordinates": {
+        "latitude": -75.458534,
+        "longitude": 170.821241
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "product_name": "Освободить",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 241.85,
+      "total_price": 725.55,
+      "kbju": {
+        "calories": 83.1,
+        "protein": 18.7,
+        "fat": 8.6,
+        "carbohydrates": 23.9
+      },
+      "manufacturer": {
+        "name": "АО «Васильева, Никонов и Сысоев»",
+        "country": "Россия",
+        "website": "https://andreev.info",
+        "inn": "4064039106"
+      }
+    }
+  ],
+  "total_amount": 725.55,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кулунда",
+    "street": "бул. Черноморский",
+    "house": "5/5",
+    "apartment": "25",
+    "postal_code": "892687"
+  },
+  "purchase_datetime": "2025-07-15T18:30:26.476447+00:00"
+}

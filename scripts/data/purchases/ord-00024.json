@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00024",
+  "customer": {
+    "customer_id": "cus-1019",
+    "first_name": "Ратмир",
+    "last_name": "Осипова"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на бул. Лазо",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Печенга",
+      "street": "пер. Пионерский",
+      "house": "732",
+      "postal_code": "736026",
+      "coordinates": {
+        "latitude": -89.421422,
+        "longitude": 29.606084
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "product_name": "Премьера",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 132.63,
+      "total_price": 530.52,
+      "kbju": {
+        "calories": 243.3,
+        "protein": 19.7,
+        "fat": 12.8,
+        "carbohydrates": 43.4
+      },
+      "manufacturer": {
+        "name": "ИП «Горбунов»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "8614341036"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "product_name": "Приличный",
+      "category": "🥖🥖 Зерновые и хлебобулочные изделия",
+      "category_code": "grains",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 224.31,
+      "total_price": 448.62,
+      "kbju": {
+        "calories": 123.4,
+        "protein": 3.6,
+        "fat": 0.1,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Соловьев-Королев»",
+        "country": "Россия",
+        "website": "https://zao.com",
+        "inn": "9500479748"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "product_name": "Умирать",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 267.06,
+      "total_price": 267.06,
+      "kbju": {
+        "calories": 269.7,
+        "protein": 16.7,
+        "fat": 4.7,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "НПО «Исаев»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "8970283857"
+      }
+    }
+  ],
+  "total_amount": 1246.2,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Арсеньев",
+    "street": "пр. Правды",
+    "house": "79",
+    "apartment": "80",
+    "postal_code": "278282"
+  },
+  "purchase_datetime": "2025-08-06T18:30:26.422815+00:00"
+}

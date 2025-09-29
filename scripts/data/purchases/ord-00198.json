@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00198",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Самуил",
+    "last_name": "Пономарева"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пр. Горняцкий",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Саратов",
+      "street": "ш. Станционное",
+      "house": "7/4",
+      "postal_code": "763201",
+      "coordinates": {
+        "latitude": 24.124313,
+        "longitude": -62.51056
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 575.85,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    }
+  ],
+  "total_amount": 575.85,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Валдай",
+    "street": "пер. Красный",
+    "house": "6/7",
+    "apartment": "54",
+    "postal_code": "014388"
+  },
+  "purchase_datetime": "2025-06-08T18:30:26.494010+00:00"
+}

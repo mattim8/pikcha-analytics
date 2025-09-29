@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00076",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Аггей",
+    "last_name": "Новикова"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на пер. Куйбышева",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Черкесск",
+      "street": "пер. Кузнецкий",
+      "house": "25",
+      "postal_code": "542784",
+      "coordinates": {
+        "latitude": 74.1959985,
+        "longitude": 171.10086
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 204.97,
+      "total_price": 614.91,
+      "kbju": {
+        "calories": 142.5,
+        "protein": 4.6,
+        "fat": 4.1,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "Макарова Лтд",
+        "country": "Россия",
+        "website": "https://titova.info",
+        "inn": "7065405153"
+      }
+    }
+  ],
+  "total_amount": 614.91,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Сергиев Посад",
+    "street": "наб. Кольцова",
+    "house": "4/4",
+    "apartment": "49",
+    "postal_code": "101666"
+  },
+  "purchase_datetime": "2025-08-07T18:30:26.444600+00:00"
+}

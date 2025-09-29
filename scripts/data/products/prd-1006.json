@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1006",
+  "product_name": "Интеллектуальный",
+  "group": "🥛🥛 Молочные продукты",
+  "category_code": "milk",
+  "description": "Палец правильный кольцо еврейский изба.",
+  "kbju": {
+    "calories": 104.8,
+    "protein": 20.0,
+    "fat": 7.7,
+    "carbohydrates": 5.0
+  },
+  "price": 42.72,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 8,
+  "is_organic": true,
+  "barcode": "8957829114673",
+  "manufacturer": {
+    "name": "Бирюков Групп",
+    "country": "Россия",
+    "website": "https://kulikov.biz",
+    "inn": "1778528922"
+  }
+}

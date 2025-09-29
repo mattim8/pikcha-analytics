@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00100",
+  "customer": {
+    "customer_id": "cus-1013",
+    "first_name": "Всемил",
+    "last_name": "Кошелев"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на пр. Механизаторов",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Арсеньев",
+      "street": "бул. Металлургов",
+      "house": "8/1",
+      "postal_code": "436349",
+      "coordinates": {
+        "latitude": 9.058173,
+        "longitude": 74.07979
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 164.79,
+      "total_price": 494.37,
+      "kbju": {
+        "calories": 278.3,
+        "protein": 11.6,
+        "fat": 10.8,
+        "carbohydrates": 11.0
+      },
+      "manufacturer": {
+        "name": "Голубев Лтд",
+        "country": "Россия",
+        "website": "https://ooo.biz",
+        "inn": "5719285654"
+      }
+    }
+  ],
+  "total_amount": 494.37,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Саратов",
+    "street": "алл. Серафимовича",
+    "house": "3",
+    "apartment": "77",
+    "postal_code": "547935"
+  },
+  "purchase_datetime": "2025-07-05T18:30:26.454613+00:00"
+}

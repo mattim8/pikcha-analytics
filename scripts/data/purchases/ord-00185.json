@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00185",
+  "customer": {
+    "customer_id": "cus-1030",
+    "first_name": "Никифор",
+    "last_name": "Лазарева"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на наб. Есенина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Усть-Джегута",
+      "street": "ш. Каштановое",
+      "house": "4",
+      "postal_code": "240824",
+      "coordinates": {
+        "latitude": -77.7819725,
+        "longitude": -150.726568
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "product_name": "Премьера",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 132.63,
+      "total_price": 397.89,
+      "kbju": {
+        "calories": 243.3,
+        "protein": 19.7,
+        "fat": 12.8,
+        "carbohydrates": 43.4
+      },
+      "manufacturer": {
+        "name": "ИП «Горбунов»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "8614341036"
+      }
+    }
+  ],
+  "total_amount": 397.89,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Кириши",
+    "street": "бул. Ягодный",
+    "house": "102",
+    "apartment": "71",
+    "postal_code": "758842"
+  },
+  "purchase_datetime": "2025-08-03T18:30:26.488010+00:00"
+}

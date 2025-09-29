@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1003",
+  "product_name": "Умолять",
+  "group": "🥛🥛 Молочные продукты",
+  "category_code": "milk",
+  "description": "Дрогнуть пол дорогой оборот оборот новый.",
+  "kbju": {
+    "calories": 260.7,
+    "protein": 15.6,
+    "fat": 3.5,
+    "carbohydrates": 2.1
+  },
+  "price": 115.17,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 13,
+  "is_organic": true,
+  "barcode": "8416169284519",
+  "manufacturer": {
+    "name": "ИП «Коновалова»",
+    "country": "Россия",
+    "website": "https://ip.org",
+    "inn": "6275705964"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1025",
+  "first_name": "Ратибор",
+  "last_name": "Смирнов",
+  "email": "smaslov@example.org",
+  "phone": "+72415415206",
+  "birth_date": "1997-04-02",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.405412+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-CCBBDB9E9E",
+  "home_store_id": "store-026",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Уренгой",
+    "street": "ул. Макаренко",
+    "house": "831",
+    "postal_code": "274846",
+    "coordinates": {
+      "latitude": 39.5199935,
+      "longitude": 73.521065
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Уренгой",
+    "street": "наб. Астраханская",
+    "house": "2/2",
+    "apartment": "35",
+    "postal_code": "371293"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

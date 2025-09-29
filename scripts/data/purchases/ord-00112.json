@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00112",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Аникей",
+    "last_name": "Гришина"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пер. 9 мая",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Верхотурье",
+      "street": "алл. Бабушкина",
+      "house": "9/9",
+      "postal_code": "554665",
+      "coordinates": {
+        "latitude": 70.4937655,
+        "longitude": -151.886479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "product_name": "Торопливый",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 204.97,
+      "total_price": 409.94,
+      "kbju": {
+        "calories": 142.5,
+        "protein": 4.6,
+        "fat": 4.1,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "Макарова Лтд",
+        "country": "Россия",
+        "website": "https://titova.info",
+        "inn": "7065405153"
+      }
+    }
+  ],
+  "total_amount": 409.94,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Серафимович",
+    "street": "наб. Поперечная",
+    "house": "295",
+    "apartment": "75",
+    "postal_code": "238061"
+  },
+  "purchase_datetime": "2025-07-01T18:30:26.460005+00:00"
+}

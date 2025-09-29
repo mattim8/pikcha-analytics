@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00013",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Мокей",
+    "last_name": "Максимов"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Пушкинская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Дубна",
+      "street": "пр. Лермонтова",
+      "house": "1",
+      "postal_code": "814770",
+      "coordinates": {
+        "latitude": -74.728693,
+        "longitude": 17.96449
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "product_name": "Зачем",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 174.98,
+      "total_price": 699.92,
+      "kbju": {
+        "calories": 265.2,
+        "protein": 0.7,
+        "fat": 10.8,
+        "carbohydrates": 34.2
+      },
+      "manufacturer": {
+        "name": "НПО «Исаков, Федосеев и Фролова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "5625881537"
+      }
+    }
+  ],
+  "total_amount": 699.92,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 1,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Усть-Кут",
+    "street": "пр. Ольховый",
+    "house": "3",
+    "apartment": "10",
+    "postal_code": "191380"
+  },
+  "purchase_datetime": "2025-08-03T18:30:26.418306+00:00"
+}

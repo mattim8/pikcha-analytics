@@ -1,0 +1,105 @@
+{
+  "purchase_id": "ord-00163",
+  "customer": {
+    "customer_id": "cus-1030",
+    "first_name": "Никифор",
+    "last_name": "Лазарева"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на ш. Киевское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Малоярославец",
+      "street": "алл. Просторная",
+      "house": "8/7",
+      "postal_code": "531473",
+      "coordinates": {
+        "latitude": 34.744229,
+        "longitude": 125.935698
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "product_name": "Премьера",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 132.63,
+      "total_price": 265.26,
+      "kbju": {
+        "calories": 243.3,
+        "protein": 19.7,
+        "fat": 12.8,
+        "carbohydrates": 43.4
+      },
+      "manufacturer": {
+        "name": "ИП «Горбунов»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "8614341036"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 345.51,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "product_name": "Манера",
+      "category": "🍏🍏 Фрукты и ягоды",
+      "category_code": "fruits",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 208.13,
+      "total_price": 624.39,
+      "kbju": {
+        "calories": 254.0,
+        "protein": 19.6,
+        "fat": 8.0,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Брок-Инвест-Сервис и К",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "4419866524"
+      }
+    }
+  ],
+  "total_amount": 1235.16,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Кириши",
+    "street": "бул. Ягодный",
+    "house": "102",
+    "apartment": "71",
+    "postal_code": "758842"
+  },
+  "purchase_datetime": "2025-07-17T18:30:26.479502+00:00"
+}

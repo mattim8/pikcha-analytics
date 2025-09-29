@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1044",
+  "first_name": "Остромир",
+  "last_name": "Кузнецова",
+  "email": "ifilatov@example.com",
+  "phone": "+7 793 271 04 05",
+  "birth_date": "1972-06-13",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.413797+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-AD43A8ED55",
+  "home_store_id": "store-045",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Лесной (Сверд.)",
+    "street": "пр. Братский",
+    "house": "2/4",
+    "postal_code": "506068",
+    "coordinates": {
+      "latitude": 10.384523,
+      "longitude": -53.417612
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Лесной (Сверд.)",
+    "street": "ул. Уральская",
+    "house": "3",
+    "apartment": "15",
+    "postal_code": "218159"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

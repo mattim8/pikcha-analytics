@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00069",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Всемил",
+    "last_name": "Турова"
+  },
+  "store": {
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на наб. Сельская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Буйнакск",
+      "street": "бул. Ручейный",
+      "house": "5/8",
+      "postal_code": "834735",
+      "coordinates": {
+        "latitude": 63.1207895,
+        "longitude": 56.543931
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "product_name": "Умолять",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 115.17,
+      "total_price": 115.17,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 15.6,
+        "fat": 3.5,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ИП «Коновалова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "6275705964"
+      }
+    }
+  ],
+  "total_amount": 115.17,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Мытищи",
+    "street": "бул. Пушкина",
+    "house": "12",
+    "apartment": "43",
+    "postal_code": "902959"
+  },
+  "purchase_datetime": "2025-06-24T18:30:26.441599+00:00"
+}

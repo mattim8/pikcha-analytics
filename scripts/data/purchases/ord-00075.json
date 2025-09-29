@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00075",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Селиван",
+    "last_name": "Игнатьев"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на пер. Карла Либкнехта",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Мичуринск",
+      "street": "пер. Крестьянский",
+      "house": "5/6",
+      "postal_code": "521818",
+      "coordinates": {
+        "latitude": 46.889214,
+        "longitude": -75.898743
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 811.2,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    }
+  ],
+  "total_amount": 811.2,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Усть-Джегута",
+    "street": "бул. Победа",
+    "house": "8/8",
+    "apartment": "65",
+    "postal_code": "190340"
+  },
+  "purchase_datetime": "2025-07-16T18:30:26.444600+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1005",
+  "first_name": "Фадей",
+  "last_name": "Рожкова",
+  "email": "jkapustin@example.org",
+  "phone": "8 369 378 5477",
+  "birth_date": "1986-01-14",
+  "gender": "male",
+  "registration_date": "2025-09-06T18:30:26.395898+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-08CCF33370",
+  "home_store_id": "store-006",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Анива",
+    "street": "пр. Харьковский",
+    "house": "7/4",
+    "postal_code": "165667",
+    "coordinates": {
+      "latitude": -75.458534,
+      "longitude": 170.821241
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Анива",
+    "street": "алл. Есенина",
+    "house": "92",
+    "apartment": "22",
+    "postal_code": "280801"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

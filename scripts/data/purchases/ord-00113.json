@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00113",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Рубен",
+    "last_name": "Симонова"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на пер. Карла Либкнехта",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Мичуринск",
+      "street": "пер. Крестьянский",
+      "house": "5/6",
+      "postal_code": "521818",
+      "coordinates": {
+        "latitude": 46.889214,
+        "longitude": -75.898743
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "product_name": "Дремать",
+      "category": "🥩🥩 Мясо, рыба, яйца и бобовые",
+      "category_code": "meat_eggs_fish",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 117.52,
+      "total_price": 352.56,
+      "kbju": {
+        "calories": 184.8,
+        "protein": 15.7,
+        "fat": 8.0,
+        "carbohydrates": 0.5
+      },
+      "manufacturer": {
+        "name": "Беляева Групп",
+        "country": "Россия",
+        "website": "https://gala-form.biz",
+        "inn": "7055169409"
+      }
+    }
+  ],
+  "total_amount": 352.56,
+  "paid_cash": 0,
+  "paid_card": 1,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Хабаровск",
+    "street": "пер. Журавлева",
+    "house": "48",
+    "apartment": "6",
+    "postal_code": "060385"
+  },
+  "purchase_datetime": "2025-07-25T18:30:26.460005+00:00"
+}

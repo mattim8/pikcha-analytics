@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00156",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Всеслав",
+    "last_name": "Дьячков"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Пушкинская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Дубна",
+      "street": "пр. Лермонтова",
+      "house": "1",
+      "postal_code": "814770",
+      "coordinates": {
+        "latitude": -74.728693,
+        "longitude": 17.96449
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "product_name": "Выражаться",
+      "category": "🥛🥛 Молочные продукты",
+      "category_code": "milk",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 151.9,
+      "total_price": 759.5,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 13.6,
+        "fat": 5.7,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "РАО «Кириллов»",
+        "country": "Россия",
+        "website": "https://danilova.biz",
+        "inn": "4788728743"
+      }
+    }
+  ],
+  "total_amount": 759.5,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Мичуринск",
+    "street": "наб. Осенняя",
+    "house": "459",
+    "apartment": "5",
+    "postal_code": "407859"
+  },
+  "purchase_datetime": "2025-07-07T18:30:26.476447+00:00"
+}

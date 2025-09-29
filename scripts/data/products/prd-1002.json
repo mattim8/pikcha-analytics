@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1002",
+  "product_name": "Дыхание",
+  "group": "🥦🥦 Овощи и зелень",
+  "category_code": "vegetables",
+  "description": "Развитый спешить бетонный неожиданно пища деловой интернет кидать.",
+  "kbju": {
+    "calories": 232.3,
+    "protein": 3.7,
+    "fat": 5.8,
+    "carbohydrates": 49.5
+  },
+  "price": 202.8,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 22,
+  "is_organic": true,
+  "barcode": "7722170430304",
+  "manufacturer": {
+    "name": "ИП «Зайцева-Евсеев»",
+    "country": "Россия",
+    "website": "https://blohin.ru",
+    "inn": "3450541566"
+  }
+}

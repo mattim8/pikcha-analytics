@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1018",
+  "first_name": "Радим",
+  "last_name": "Никитина",
+  "email": "aguljaev@example.net",
+  "phone": "+7 (341) 918-2553",
+  "birth_date": "1985-10-25",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.401411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-B8B01B5E59",
+  "home_store_id": "store-019",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Малоярославец",
+    "street": "алл. Просторная",
+    "house": "8/7",
+    "postal_code": "531473",
+    "coordinates": {
+      "latitude": 34.744229,
+      "longitude": 125.935698
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Малоярославец",
+    "street": "ул. Васильковая",
+    "house": "9/6",
+    "apartment": "41",
+    "postal_code": "969155"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

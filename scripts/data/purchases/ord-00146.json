@@ -1,0 +1,61 @@
+{
+  "purchase_id": "ord-00146",
+  "customer": {
+    "customer_id": "cus-1012",
+    "first_name": "Филимон",
+    "last_name": "Голубева"
+  },
+  "store": {
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на наб. Олега Кошевого",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Сергиев Посад",
+      "street": "ул. Тукая",
+      "house": "221",
+      "postal_code": "619399",
+      "coordinates": {
+        "latitude": -79.3319285,
+        "longitude": 152.527916
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "product_name": "Дыхание",
+      "category": "🥦🥦 Овощи и зелень",
+      "category_code": "vegetables",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 202.8,
+      "total_price": 811.2,
+      "kbju": {
+        "calories": 232.3,
+        "protein": 3.7,
+        "fat": 5.8,
+        "carbohydrates": 49.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зайцева-Евсеев»",
+        "country": "Россия",
+        "website": "https://blohin.ru",
+        "inn": "3450541566"
+      }
+    }
+  ],
+  "total_amount": 811.2,
+  "paid_cash": 1,
+  "paid_card": 0,
+  "delivery": 0,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Чебаркуль",
+    "street": "пр. Магистральный",
+    "house": "5",
+    "apartment": "66",
+    "postal_code": "799371"
+  },
+  "purchase_datetime": "2025-08-26T18:30:26.472448+00:00"
+}

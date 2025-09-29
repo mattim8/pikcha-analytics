@@ -1,0 +1,37 @@
+{
+  "customer_id": "cus-1014",
+  "first_name": "Назар",
+  "last_name": "Шилов",
+  "email": "hartemev@example.net",
+  "phone": "+7 (982) 807-3741",
+  "birth_date": "1982-07-10",
+  "gender": "female",
+  "registration_date": "2025-09-06T18:30:26.399411+00:00",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-189E83912D",
+  "home_store_id": "store-015",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Томск",
+    "street": "пр. Большевистский",
+    "house": "94",
+    "postal_code": "347143",
+    "coordinates": {
+      "latitude": -17.0620305,
+      "longitude": 0.306775
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Томск",
+    "street": "бул. Тюленина",
+    "house": "44",
+    "apartment": "16",
+    "postal_code": "266179"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

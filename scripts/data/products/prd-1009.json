@@ -1,0 +1,25 @@
+{
+  "product_id": "prd-1009",
+  "product_name": "Приличный",
+  "group": "🥖🥖 Зерновые и хлебобулочные изделия",
+  "category_code": "grains",
+  "description": "Висеть передо мелькнуть госпожа потом.",
+  "kbju": {
+    "calories": 123.4,
+    "protein": 3.6,
+    "fat": 0.1,
+    "carbohydrates": 36.2
+  },
+  "price": 224.31,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 21,
+  "is_organic": true,
+  "barcode": "6325953278776",
+  "manufacturer": {
+    "name": "НПО «Соловьев-Королев»",
+    "country": "Россия",
+    "website": "https://zao.com",
+    "inn": "9500479748"
+  }
+}
