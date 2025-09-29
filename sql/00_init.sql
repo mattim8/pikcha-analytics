@@ -86,7 +86,7 @@ SELECT now() AS ingest_time, 'purchases' AS source, payload FROM piccha_raw.kafk
 CREATE DATABASE IF NOT EXISTS piccha_mart;
 
 -- MART: чистые витрины.
--- MV делает: JSON → извлечение → lower → типизация → валидация (WHERE) → вставка.
+-- MV делает: JSON - извлечение - lower - типизация - валидация (WHERE) - вставка.
 -- ReplacingMergeTree(ingest_time) оставляет последнюю версию по ключу сортировки
 -- во время фоновых merge; FINAL не нужен, т.к. дубли гасим ещё на этапе MV.
 
