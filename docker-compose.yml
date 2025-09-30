@@ -1,0 +1,64 @@
+version: '3.8'
+
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.3.3
+    ports: ["2181:2181"]
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+
+  kafka:
+    image: confluentinc/cp-kafka:7.3.3
+    depends_on: [zookeeper]
+    ports:
+      - "9092:9092"   # внутренний (для контейнеров) и доступ с хоста при желании
+      - "9093:9093"   # внешний для клиентов с хоста (advertised как localhost)
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+
+      # ДВА слушателя: внутренний и внешний (РАЗНЫЕ порты!)
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092,PLAINTEXT_HOST://0.0.0.0:9093
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:9093
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+
+  mongo:
+    image: mongo:6
+    ports: ["27017:27017"]
+    volumes:
+      - mongo_data:/data/db
+
+  clickhouse:
+    image: clickhouse/clickhouse-server:23.8
+    restart: always
+    ports: ["8123:8123","9000:9000"]
+    ulimits:
+      nofile: { soft: 262144, hard: 262144 }
+    environment:
+      CLICKHOUSE_USER: user
+      CLICKHOUSE_PASSWORD: strongpassword
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+      - ./sql:/docker-entrypoint-initdb.d  # сюда DDL для RAW/Kafka/MV
+
+  grafana:
+    image: grafana/grafana:10.4.2
+    ports: ["3000:3000"]              # откроется http://localhost:3000
+    environment:
+      - GF_INSTALL_PLUGINS=grafana-clickhouse-datasource
+      - GF_SECURITY_ADMIN_PASSWORD=admin   
+    depends_on: [clickhouse]
+    volumes:
+      - grafana_data:/var/lib/grafana
+      # датасорс/дашборды:
+      - ./grafana/provisioning:/etc/grafana/provisioning
+
+volumes:
+  mongo_data:
+  clickhouse_data:
+  grafana_data:
