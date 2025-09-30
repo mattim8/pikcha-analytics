@@ -19,7 +19,7 @@
     - generate_data.py = генерация JSON
     - import_json.py = из JSON в MONGO
     - producer.py = из MONGO в Kafka(хэш PII)
-- **Grafana** - дашборды и алерты([alertgrfn_bot](t.me/alertgrfn_bot))
+- **Grafana** - дашборды и алерты(t.me/alertgrfn_bot)
 - **.env / requirements** - конфигурация окружения и зависимости
 
 ### Grafana(алертинг)
