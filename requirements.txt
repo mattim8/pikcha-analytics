@@ -1,0 +1,7 @@
+python-dotenv==1.0.1
+kafka-python==2.0.2
+pymongo==4.8.0
+requests==2.32.3
+orjson==3.10.7
+phonenumbers==8.13.45
+faker==24.9.0
